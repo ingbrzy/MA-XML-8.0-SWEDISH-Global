@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_insufficient_space_on_external">Inte tillräckligt med utrymme på extern lagring</string>
+    <string name="dialog_insufficient_space_on_cache">Inte tillräckligt med ledigt utrymme på det interna nedladdningsutrymmet</string>
+    <string name="auto_restart_under_wifi">Wifi kommer automatiskt att ladda ner denna fil</string>
+    <string name="task_already_exist">Uppgiften finns redan</string>
+    <string name="privacy_tip_title">Använd Xunlei Accelerator?</string>
+    <string name="privacy_tip_content">Använda Xunlei Accelerator för att påskynda nedladdningar? Webbadressens nedladdnings värd kommer att laddas upp till Xunlei servrar. Ditt Mi Konto kommer också laddas upp för att kontrollera om du har några aktiva abonnemang på denna tjänst.</string>
+    <string name="privacy_tip_cancel">Avbryt</string>
+    <string name="privacy_tip_ok">OK</string>
+    <string name="privacy_notif_title">Xunlei Download Accelerator är på</string>
+    <string name="privacy_notif_content">Tryck här för att visa detaljer.</string>
+    <string name="notif_text_engine_on">Accelererande…</string>
+    <string name="notif_text_engine_off">Xunlei acceleratorn är avstängd.</string>
+    <string name="notif_title_single_downloading">Laddar ned %1$s</string>
+    <string name="notif_title_multiple_downloading">Laddar ned %1$d files</string>
+    <string name="notif_title_file_size">%1$d totalt</string>
+    <string name="paused_waiting_for_network">Väntar på nätverk</string>
+    <string name="warning_tip_title">Varning för dataanvändning</string>
+    <string name="warning_tip_content">Du inte längre är ansluten till Wi-Fi. Genom att använda den mobila dataanslutning för att slutföra denna film kommer att öka din dataanvändning. Om du går över din plan datagräns, kan din operatör debiterar dig extra avgifter.</string>
+    <string name="warning_tip_cancel">Ladda ned</string>
+    <string name="warning_tip_ok">Pausa</string>
+    <string name="dialog_not_show_again">Visa inte igen</string>
+    <string name="notification_download_complete">Nedladdning klar</string>
+    <string name="notification_download_failed">Kunde inte ladda ned</string>
+    <string name="notification_download_success_more">%1$d nedladdat</string>
+    <string name="notification_download_failed_more">Kunnde inte ladda ned %1$d objektet</string>
+    <string name="mobile_recommended_title">Mobil dataanvändning</string>
+    <string name="recommended_file_size_download_in_mobile">Använd %s av mobildata för att ladda ned den här filen?</string>
+    <string name="recommended_no_file_size_download_in_mobile">Använd din mobil dataanslutning för att ladda ned den här filen?</string>
+    <string name="button_wait_for_wifi">Vänta</string>
+    <string name="button_download_now">Ladda ner nu</string>
+    <string name="insufficient_space">Inte tillräckligt med utrymme på din interna lagringsenhet</string>
+    <string name="enter_garbage_clean">Städa upp internt lagringsutrymme.</string>
+    <string name="download_apk_desktop_pending">Avvaktar</string>
+    <string name="download_apk_desktop_pause">Pausad</string>
+    <string name="download_apk_desktop_running">Nedladdning</string>
+    <string name="download_apk_desktop_installing">Installerar</string>
+    <string name="xl_speedup_experience_notify_title">Xunlei medlemskap</string>
+    <string name="xl_speedup_experience_notify_context">Hastigheten är ökad för varje nedladdning så länge du är Xunlei medlem</string>
+    <string name="xl_speedup_notify_button_experience">Prova gratis</string>
+    <string name="xl_speedup_notify_button_member">Bli medlem</string>
+    <string name="notify_disabled_net_by_app">Internetanslutning begränsad av säkerhetsapp</string>
+    <string name="notify_only_wifi_download">Väntar på Wi-Fi</string>
+    <string name="notify_install_guide_title">Installerad %s framgångsrikt</string>
+    <string name="notify_install_guide_msg">Installerat</string>
+    <string name="notify_install_guide_forward_text">Öppna</string>
+    <string name="app_label">Hämtningshanterare</string>
+    <string name="permlab_downloadManager">Åtkomst till hämtningshanterare.</string>
+    <string name="permdesc_downloadManager">Tillåter att en app får åtkomst till hämtningshanteraren och kan använda den för att hämta filer. Skadliga program kan använda detta för att störa hämtningar och komma åt privat information.</string>
+    <string name="permlab_downloadManagerAdvanced">Avancerade funktioner för hämtningshanterare.</string>
+    <string name="permdesc_downloadManagerAdvanced">Tillåter att appen får åtkomst till hämtningshanterarens avancerade funktioner. Skadliga program kan använda detta för att störa hämtningar och komma åt privata uppgifter.</string>
+    <string name="permlab_downloadCompletedIntent">Skicka meddelande om hämtning.</string>
+    <string name="permdesc_downloadCompletedIntent">Tillåter att appen skickar meddelanden om slutförda hämtningar. Skadliga appar kan använda detta för att störa andra appar som hämtar filer.</string>
+    <string name="permlab_seeAllExternal">Visa hämtningar till USB</string>
+    <string name="permdesc_seeAllExternal">Tillåter att appen ser alla hämtningar till SD-kortet, oavsett vilken app som hämtat innehållet.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservera utrymme i hämtningscachen</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Tillåter att appen hämtar filer till hämtningscachen som inte kan tas bort automatiskt när hämtningshanteraren behöver mer utrymme.</string>
+    <string name="permlab_downloadWithoutNotification">hämta filer utan avisering</string>
+    <string name="permdesc_downloadWithoutNotification">Tillåter att appen hämtar filer via hämtningshanteraren utan att något meddelande visas för användaren.</string>
+    <string name="permlab_accessAllDownloads">Åtkomst till alla hämtade filer i systemet</string>
+    <string name="permdesc_accessAllDownloads">Tillåter att appen visar och ändrar alla hämtningar som initieras av en app i systemet.</string>
+    <string name="download_unknown_title">&lt;Okänd></string>
+    <string name="notification_need_wifi_for_size">Hämtningen kräver Wi-Fi.</string>
+    <string name="notification_paused_in_background">Pausad i bakgrunden.</string>
+    <string name="wifi_required_title">Hämtningen är för stor för operatörsnätverket</string>
+    <string name="wifi_required_body" formatted="false">"Du måste använda Wi-Fi om du vill slutföra hämtningen på %s . 
+ 
+ Tryck på %s  om du vill påbörja hämtningen nästa gång du är ansluten till ett Wi-Fi-nätverk."</string>
+    <string name="wifi_recommended_title">Vill du ställa den i kö för hämtning senare?</string>
+    <string name="wifi_recommended_body" formatted="false">"Om du hämtar %s  kan det leda till att batteritiden minskar eller att dataanslutningen överbelastas. Det kan i sin tur innebära att operatören tar ut högre avgifter, beroende på abonnemang.
+
+ Tryck på %s om du vill starta hämtningen nästa gång mobilen är ansluten till ett Wi-Fi-nätverk."</string>
+    <string name="button_queue_for_wifi">Kö</string>
+    <string name="button_cancel_download">Avbryt</string>
+    <string name="button_start_now">Starta nu</string>
+    <string name="download_percent">%d %%</string>
+    <string name="download_remaining">%s återstår</string>
+    <string name="download_no_application_title">Det går inte att öppna filen</string>
+    <string name="root_downloads">Hämtningar</string>
+    <string name="download_queued">I kö</string>
+    <string name="download_running">Pågår</string>
+    <string name="download_error">Misslyckades</string>
+    <string name="download_running_percent">Hämtningen pågår: %d %%</string>
+</resources>

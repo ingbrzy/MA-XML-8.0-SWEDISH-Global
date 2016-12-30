@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_folder">Radera denna mappen?</string>
+    <string name="delete_folders">Radera %1$d mapparna?</string>
+    <string name="delete_file">Radera denna fil?</string>
+    <string name="delete_files">Radera %1$d filer?</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skannar…</item>
+        <item>Ansluter…</item>
+        <item>Autentiserar…</item>
+        <item>Erhåller IP-adress…</item>
+        <item>Ansluten</item>
+        <item>Pausad</item>
+        <item>Kopplar ifrån…</item>
+        <item>Frånkopplad</item>
+        <item>Misslyckades</item>
+        <item>Blockerat</item>
+        <item>Undviker just nu dålig anslutning</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skannar…</item>
+        <item>Ansluter till %1$s…</item>
+        <item>Autentiserar med %1$s…</item>
+        <item>Hämtar IP-adress från %1$s…</item>
+        <item>Ansluten till: %1$s</item>
+        <item>Pausad</item>
+        <item>Kopplar ifrån %1$s…</item>
+        <item>Frånkopplad</item>
+        <item>Misslyckades</item>
+        <item>Blockerat</item>
+        <item>Undviker just nu dålig anslutning</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Soligt</item>
+        <item>Molnigt</item>
+        <item>Mulet</item>
+        <item>Dimmigt</item>
+        <item>Kraftig regnstorm</item>
+        <item>Skyfall</item>
+        <item>Regnstorm</item>
+        <item>Åskväder</item>
+        <item>Skur</item>
+        <item>Kraftigt regn</item>
+        <item>Måttligt regn</item>
+        <item>Duggregn</item>
+        <item>Snö blandat regn</item>
+        <item>Snöstorm</item>
+        <item>Snö</item>
+        <item>Kraftig snö</item>
+        <item>Måttligt snö</item>
+        <item>Lätt snö</item>
+        <item>Kraftig sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Sand</item>
+        <item>Blåsigt</item>
+        <item>Hagel</item>
+        <item>Damm</item>
+        <item>Dis</item>
+        <item>Nedkylt regn</item>
+        <item></item>
+    </string-array>
+</resources>

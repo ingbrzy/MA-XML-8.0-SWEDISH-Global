@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d minuter sedan</item>
+        <item quantity="one">%d minut sedan</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">%d timmar sedan</item>
+        <item quantity="one">%d timme sedan</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">%d dagar sedan</item>
+        <item quantity="one">%d dag sedan</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Klart</item>
+        <item quantity="one">Klart</item>
+    </plurals>
+</resources>

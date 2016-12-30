@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>Vit</item>
+        <item>Gul</item>
+        <item>Grå</item>
+        <item>Brun</item>
+        <item>Grön</item>
+        <item>Blå</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Standard Hemsida</item>
+        <item>Anpassad</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Platta</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Mycket liten</item>
+        <item>Liten</item>
+        <item>Normal</item>
+        <item>Stor</item>
+        <item>Enorm</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Skrivbord</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Ta bort</item>
+        <item>Nej tack</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Följ</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Meddelande från Webbläsare</item>
+        <item>Följ Os med Mi</item>
+    </string-array>
+</resources>

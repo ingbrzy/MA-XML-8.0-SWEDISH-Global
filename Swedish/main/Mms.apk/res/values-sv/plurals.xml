@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Radera markerade %1$s konversationer?</item>
+        <item quantity="one">Radera den här konversationen?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekunder</item>
+        <item quantity="one">%s sekund</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%s sekunder</item>
+        <item quantity="one">%s sekund</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultat för %2$s\"</item>
+        <item quantity="one">%1$s resultat för %2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s personer</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d meddelanden</item>
+        <item quantity="one">1 meddelande</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d meddelanden blev inte synkroniserade</item>
+        <item quantity="one">1 meddelande blev inte synkroniserat</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s meddelanden</item>
+        <item quantity="one">%1$s meddelande</item>
+    </plurals>
+</resources>

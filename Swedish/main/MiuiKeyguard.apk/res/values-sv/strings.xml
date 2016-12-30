@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Ta bort</string>
+    <string name="unlockscreen_recharging_message">Laddar %d%%</string>
+    <string name="unlockscreen_recharge_completed">Batteriet laddat</string>
+    <string name="unlockscreen_low_battery">Anslut laddare nu</string>
+    <string name="lockscreen_charging_msg">Laddar</string>
+    <string name="emergency_call_string">Nödsituation</string>
+    <string name="forget_password_string">Glömt lösenord</string>
+    <string name="input_puk_code">Mata in PUK</string>
+    <string name="unlocking_sim_card">Upplåsning SIM kort</string>
+    <string name="input_pin_code">Ange PIN</string>
+    <string name="incorrect_pukcode_remaining_attempts">Felaktig PUK Kod, %d försök kvar</string>
+    <string name="incorrect_pincode_remaining_attempts">Felaktig PIN Kod, %d försök kvar</string>
+    <string name="incorrect_pukcode">Felaktig PUK kod</string>
+    <string name="incorrect_pincode">Felaktig PIN-kod</string>
+    <string name="open_wifi_settings">Öppna nätverksanslutning</string>
+    <string name="lock_screen_date">EEEE, MMMM d</string>
+    <string name="lock_screen_date_12">EEEE, MMMM d</string>
+    <string name="lockscreen_glogin_password_hint">Lösenord</string>
+    <string name="lockscreen_glogin_checking_password">Kontrollerar…</string>
+    <string name="login_website_in_case_forget_password">För att återställa ditt lösenord, gå till www.mi.com/micloud</string>
+    <string name="experimental_validate_thanks">Tack!</string>
+    <string name="experimental_validate_warning">Tack för att du hjälper göra MIUI bättre!</string>
+    <string name="experimental_validate">Validera</string>
+    <string name="experimental_try_string">Försök</string>
+    <string name="experimental_validate_username">Användarnamn</string>
+    <string name="experimental_validate_password">Lösenord</string>
+    <string name="experimental_validate_progress">Loggar in…</string>
+    <string name="experimental_validate_fail">Det gick inte att logga in</string>
+    <string name="lockscreen_glogin_invalid_input">Ogiltligt användarnamn eller lösenord.</string>
+    <string name="find_device_turn_off_flight_mode">Stäng av Scenläge</string>
+    <string name="phone_locked_string">Telefonen har låsts</string>
+    <string name="phone_locked_timeout_seconds_string">Försök igen om %s sekunder</string>
+    <string name="phone_locked_timeout_minutes_string">Försök igen om %s minuter</string>
+    <string name="unlock_sim_string">Lås upp SIM</string>
+    <string name="lockscreen_glogin_submit_button">Logga in</string>
+    <string name="lockscreen_access_pattern_start">Mönster startat</string>
+    <string name="lockscreen_access_pattern_cleared">Mönster rensat</string>
+    <string name="lockscreen_access_pattern_cell_added">Cell tillagd</string>
+    <string name="lockscreen_access_pattern_detected">Möster färdigt</string>
+    <string name="default_lockscreen_unlock_hint_text">Dra upp för att låsa upp</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har skrivit fel lösenord %d gånger. Efter %d fler gånger, kommer du att tillfrågas om att låsa upp din telefon med ditt Mi konto.
+
+ Försök igen om %d sekunder."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du har försökt att låsa upp telefonen med fel lösenord %d gånger. Efter %d fler gånger, kommer telefonen att fabriksåterställas och all användardata kommer att försvinna.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Du har försökt att låsa upp telefonen med fel lösenord %d gånger. Telefonen kommer nu att fabriksåterställas.</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Upplåst med Bluetooth enhet</string>
+    <string name="missed_call_text">%d missade samtal</string>
+    <string name="wrong_password">Fel lösenord</string>
+    <string name="keyguard_torch_cover_text">För att hålla igång ficklampan, håll ned strömknappen</string>
+    <string name="confirm_pin_msg">Ange PIN igen</string>
+    <string name="invalid_confirm_pin_hint">PIN-koderna matchar inte</string>
+    <string name="unlock_string">Lås upp</string>
+    <string name="open_camera_hint_text">Svep till vänster för att öppna %s</string>
+    <string name="open_remote_center_hint_text">Svep till höger för att öppna %s</string>
+    <string name="left_action_default_hint_text">Mi Fjärrkontroll</string>
+    <string name="click_to_enter_text">Tryck för att visa</string>
+    <string name="fingerprint_try_again_text">Försök igen</string>
+    <string name="fingerprint_not_identified_title">Ange lösenord</string>
+    <string name="fingerprint_not_identified_msg">För att låsa upp din enhet, ange ditt lösenord.</string>
+    <string name="invalid_sim_pin_hint">PIN måste innehålla 4 till 8 nummer</string>
+    <string name="invalid_sim_puk_hint">PUK måste innehålla minst 8 nummer</string>
+    <string name="input_password_hint_text">Ange lösenord</string>
+    <string name="input_pattern_hint_text">Rita ditt upplåsningsmönster</string>
+    <string name="input_password_after_boot_msg">För att låsa upp enheten, ange ditt lösenord</string>
+    <string name="fingerprint_lockout_msg">Vänta en minut, försök sen att låsa upp med ditt fingeravtryck igen</string>
+    <string name="accessibility_enter_lock_wallpaper">Knacka för att öppna bakrunder</string>
+    <string name="lock_wallpaper_learn_more">Mer</string>
+    <string name="lock_wallpaper_enter">Ange</string>
+    <string name="custom_lock_wallpaper_enter">Ange</string>
+    <string name="fingerprint_enter_second_psw_title">Ange Sekundära utrymmets lösenord</string>
+    <string name="fingerprint_enter_second_psw_msg">Ange Sekundära utrymmets lösenord efter omstart av enheten för att kunna använda fingeravtrycksigenkänning</string>
+</resources>

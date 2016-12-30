@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Man</item>
+        <item>Kvinna</item>
+    </string-array>
+    <string-array name="education">
+        <item>Grundskola</item>
+        <item>Privatskola</item>
+        <item>Gymnasiet</item>
+        <item>Yrkesskola</item>
+        <item>Högskola</item>
+        <item>Magisterexamen</item>
+        <item>Doktorsexamen</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Familj</item>
+        <item>Mormors namn</item>
+        <item>Morfars namn</item>
+        <item>Farfars namn</item>
+        <item>Farmors namn</item>
+        <item>Pappas födelsedag</item>
+        <item>Mammas födelsedag</item>
+        <item>Vad är dina föräldrars åldersskillnad (år och månader)?</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Lärosäte</item>
+        <item>Vad hette din klassordförande i högstadiet?</item>
+        <item>Vad hette din klassordförande i grundskolan?</item>
+        <item>Ditt student-ID på högskolan</item>
+        <item>Vad hette din rumskamrat på högskolan?</item>
+        <item>Vad hette din handledare på högskolan?</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Personlig information</item>
+        <item>Hur ropar dina föräldrar på dej?</item>
+        <item>Sista 6 siffror av ditt passnummer</item>
+        <item>Vilket sjukhus är du född på?</item>
+        <item>Vilket namn har din bästa vän?</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>Första gångerna</item>
+        <item>Vilket var namnet på ditt första husdjur?</item>
+        <item>Vilket var namnet på din första flick-/pojkvän?</item>
+        <item>Vilket var namnet på företaget där du hade ditt första jobb?</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Gift</item>
+        <item>När gifte du dej?</item>
+        <item>Din makes namn</item>
+        <item>Din makes födelsedag</item>
+    </string-array>
+</resources>

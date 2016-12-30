@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minuter sedan</item>
+        <item quantity="one">%1$d minut sedan</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d timmar sedan</item>
+        <item quantity="one">%1$d timme sedan</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dagar sedan</item>
+        <item quantity="one">%1$d dag sedan</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Nerladdad av %1$d människor</item>
+        <item quantity="one">Nerladdad av %1$d människa</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Nerladdad av %1$d människor</item>
+        <item quantity="one">Nerladdad av %1$d människa</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Nerladdad av %1$d människor</item>
+        <item quantity="one">Nerladdad av %1$d människa</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d visningar</item>
+        <item quantity="one">%1$d visning</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d grupper</item>
+        <item quantity="one">%d grupp</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Radera %d Bilder?</item>
+        <item quantity="one">Radera %d Bilder?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Radera %1$s bilder från alla enheter ?</item>
+        <item quantity="one">Radera %1$s bild från alla enheter ?</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Du kan ta bort oviktiga data för%d appar</item>
+        <item quantity="one">Du kan ta bort oviktiga data för%d app</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d app installerad, du kan ta bort sällan använda appar</item>
+        <item quantity="one">%d app installerad, du kan ta bort den här</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Hittade %d stora filer, du kan ta bort de oviktiga</item>
+        <item quantity="one">Hittade %d stor fil, du kan ta bort den här</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Hittade %d bilder, du kan ta bort dubbletter eller redundanta bilder</item>
+        <item quantity="one">Hittade %d bild, du kan ta bort dubbletter eller redundanta bilder</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Hittade %d APK, kan du ta bort de onödiga.</item>
+        <item quantity="one">Hittade %d APK, kan du ta bort denna.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Hittade %d videon, kan du ta bort de onödiga</item>
+        <item quantity="one">Hittade %d videon, kan du ta bort denna.</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d app installerad</item>
+        <item quantity="one">%d app installerad</item>
+    </plurals>
+</resources>

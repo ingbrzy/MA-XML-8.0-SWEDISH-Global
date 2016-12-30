@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s anteckningar</item>
+        <item quantity="one">%1$s anteckning</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s mappar</item>
+        <item quantity="one">%1$s mapp</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$s har inte synkroniserats</item>
+        <item quantity="one">%1$s har inte synkroniserats</item>
+    </plurals>
+    <plurals name="note_count_in_folder">
+        <item quantity="other">%1$s anteckningar</item>
+        <item quantity="one">1 anteckning</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultat för %2$s\"</item>
+        <item quantity="one">%1$s resultat för %2$s\"</item>
+    </plurals>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="download_finished">
+        <item quantity="other">&amp;lt;font color==\"red\">%d låtar&amp;lt;/font> nedladdade</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d låt&amp;lt;/font> nedladdad</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&amp;lt;font color==\"red\">%d låtar&amp;lt;/font> laddas ned</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d låt&amp;lt;/font> laddas ned</item>
+    </plurals>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d låtar hittade</item>
+        <item quantity="one">%d låt hittad</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d dagar kvar</item>
+        <item quantity="one">%d dag kvar</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d låtar kommer laddas ned</item>
+        <item quantity="one">1 låt kommer laddas ned</item>
+    </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Ta bort %d spellistor?</item>
+        <item quantity="one">Ta bort %d spellista?</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d nya</item>
+        <item quantity="one">1 ny</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d låtar</item>
+        <item quantity="one">%d låt</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d liknande låtar</item>
+        <item quantity="one">%d liknande låt</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d artister</item>
+        <item quantity="one">%d artist</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d band</item>
+        <item quantity="one">%d band</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Ta bort %d låtar?</item>
+        <item quantity="one">Ta bort %d låt?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Radera %d låtar?</item>
+        <item quantity="one">Radera %d låt?</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d låtar tillagda i spellistan</item>
+        <item quantity="one">Låt tillagd i spellistan</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d låtar borttagna från spellistan</item>
+        <item quantity="one">Låt borttagen från spellistan</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Spelaren kommer stoppas om %d minuter</item>
+        <item quantity="one">Spelaren kommer stoppas om %d minut</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d låtar kommer skickas</item>
+        <item quantity="one">1 låt kommer skickas</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d låtar</item>
+        <item quantity="one">1 låt</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d låtar tillagda</item>
+        <item quantity="one">%d låt tillagd</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d objekt valda</item>
+        <item quantity="one">%d objekt vald</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Låtar har lagts till i favoriter.</item>
+        <item quantity="one">En låt har lagts till i favoriter.</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%dKommentarer</item>
+        <item quantity="one">%dKommentar</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d följare</item>
+        <item quantity="one">%d följare</item>
+    </plurals>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baby_sexy">
+        <item>Pojke</item>
+        <item>Flicka</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Fader</item>
+        <item>Mor</item>
+        <item>Farfar</item>
+        <item>Farmor</item>
+        <item>Farmor</item>
+        <item>Maternal Farmor</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Jag</item>
+        <item>Barn</item>
+        <item>Familj</item>
+        <item>Kollegor</item>
+        <item>Klasskamrater</item>
+        <item>Vänner</item>
+        <item>Okänd</item>
+    </string-array>
+</resources>

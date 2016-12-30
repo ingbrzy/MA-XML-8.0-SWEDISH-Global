@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_furture">
+        <item>Alarm om mindre än 1 minut</item>
+        <item>Alarm om %1$s</item>
+        <item>Alarm om %2$s</item>
+        <item>Alarm om %1$s %2$s</item>
+        <item>Alarm om %3$s</item>
+        <item>Alarm om %1$s %3$s</item>
+        <item>Alarm om %2$s %3$s</item>
+        <item>Alarm om %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>I går</item>
+        <item>I dag</item>
+        <item>I morgon</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>En gång</item>
+        <item>Dagligen</item>
+        <item>Arbetsdagar</item>
+        <item>Lediga dagar</item>
+        <item>Mån till fre</item>
+        <item>Anpassad</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>En gång</item>
+        <item>Dagligen</item>
+        <item>Mån till fre</item>
+        <item>Anpassad</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Alarmet kommer stängas av inom 1 minut.</item>
+        <item>Alarmet kommer stängas av inom %1$s.</item>
+        <item>Alarmet kommer stängas av inom %2$s.</item>
+        <item>Alarmet kommer stängas av inom %1$s och %2$s.</item>
+        <item>Alarmet kommer stängas av inom %3$s.</item>
+        <item>Alarmet kommer stängas av inom %1$s och %3$s.</item>
+        <item>Alarmet kommer stängas av inom %2$s och %3$s.</item>
+        <item>Alarmet kommer stängas av inom %1$s, %2$s, och %3$s.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minut</item>
+        <item>5 minuter</item>
+        <item>10 minuter</item>
+        <item>15 minuter</item>
+        <item>20 minuter</item>
+        <item>25 minuter</item>
+        <item>30 minuter</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Aldrig</item>
+        <item>1 minut</item>
+        <item>5 minuter</item>
+        <item>10 minuter</item>
+        <item>15 minuter</item>
+        <item>20 minuter</item>
+        <item>25 minuter</item>
+        <item>30 minuter</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Gör inget</item>
+        <item>Snooze</item>
+        <item>Avfärda</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

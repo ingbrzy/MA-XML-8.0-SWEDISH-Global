@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaServer</string>
+    <string name="noti_projection_status_title">MiPlay Wireless Display</string>
+    <string name="noti_projection_status_desc_on">Skärmkopia är På</string>
+    <string name="prjection_title">Trådlös bildskärm</string>
+    <string name="search_for_devices">Uppdatera</string>
+    <string name="media_feature_projection">Mirror screen</string>
+    <string name="media_status_error">Fel</string>
+    <string name="media_status_starting">Ansluter…</string>
+    <string name="media_status_started">Connected</string>
+    <string name="media_status_stopping">Stopping…</string>
+    <string name="media_status_stopped">Stopped</string>
+    <string name="wifi_display_settings_title">Kasta</string>
+    <string name="wifi_display_enable_menu_item">Slå på Wireless display</string>
+    <string name="wifi_display_no_devices_found">Det gick inte att hitta närliggande enheter.</string>
+    <string name="wifi_display_status_connecting">Ansluter</string>
+    <string name="wifi_display_status_connected">Ansluten</string>
+    <string name="wifi_display_status_in_use">I användning</string>
+    <string name="wifi_display_status_not_available">Unavailable</string>
+    <string name="wifi_display_details">Display settings</string>
+    <string name="wifi_display_options_title">Wireless display options</string>
+    <string name="wifi_display_options_forget">Forget</string>
+    <string name="wifi_display_options_done">Done</string>
+    <string name="wifi_display_options_name">Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="enable_wifi_title">Turn on Wi-Fi</string>
+    <string name="enable_wifi_message">Turn on Wi-Fi to search and connect nearby devices.</string>
+    <string name="enable_wifi_btn">Turn on</string>
+</resources>

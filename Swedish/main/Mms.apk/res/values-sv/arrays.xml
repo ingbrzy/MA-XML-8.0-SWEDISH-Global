@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Namn</item>
+        <item>Smeknamn</item>
+        <item>Telefon</item>
+        <item>E-post</item>
+        <item>Organisation</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Födelsedag</item>
+        <item>Webbsida</item>
+        <item>Adress</item>
+        <item>Anteckning</item>
+        <item>Relation</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi Meddelande</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi Meddelande</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Inte angivet</item>
+        <item>1 timme</item>
+        <item>6 timmar</item>
+        <item>12 timmar</item>
+        <item>1 dag</item>
+        <item>Maximal</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maximal</item>
+        <item>2 dagar</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Synkronisera meddelanden</item>
+        <item>Synkronisera meddelanden från valda SIM kort</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekund</item>
+        <item>2 sekunder</item>
+        <item>3 sekunder</item>
+        <item>4 sekunder</item>
+        <item>5 sekunder</item>
+        <item>6 sekunder</item>
+        <item>7 sekunder</item>
+        <item>8 sekunder</item>
+        <item>9 sekunder</item>
+        <item>10 sekunder</item>
+        <item>Annat</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Alltid</item>
+        <item>Bara vid ljudlöst</item>
+        <item>Aldrig</item>
+    </string-array>
+</resources>

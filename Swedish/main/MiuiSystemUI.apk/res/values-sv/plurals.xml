@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d nya appar</item>
+        <item quantity="one">1 ny app</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Dölj %d appars notifikationer?</item>
+        <item quantity="one">Dölj denna apps notifikationer?</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Klart</item>
+        <item quantity="one">Soligt</item>
+    </plurals>
+</resources>

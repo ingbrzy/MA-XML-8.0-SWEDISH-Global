@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fileCount">
+        <item quantity="other">%d objekt</item>
+        <item quantity="one">%d objekt</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d notifikationer i primära utrymmet</item>
+        <item quantity="one">%d notifikation i primära utrymmet</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d notifikationer i sekundära utrymmet</item>
+        <item quantity="one">%d notifikation i sekundära utrymmet</item>
+    </plurals>
+</resources>

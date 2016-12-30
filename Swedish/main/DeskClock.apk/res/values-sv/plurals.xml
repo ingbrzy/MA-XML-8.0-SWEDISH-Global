@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d timmar "</item>
+        <item quantity="one">"%1$d timme "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d minuter "</item>
+        <item quantity="one">"%1$d minut "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">%1$d sekund</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d minuter</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Snooza för %d minuter</item>
+        <item quantity="one">Snooza for %d min</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Snooza för %d minuter.</item>
+        <item quantity="one">Snooza för %d minut.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Alarms kommer tystna efter %d minuter</item>
+        <item quantity="one">Alarms kommer tystna efter %d minut</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">"Ta bort detta alarm?
+
+Ta bort valda alarm?"</item>
+        <item quantity="one">Ta bort detta alarm?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">"Ta bort denna tidszon?
+
+Ta bort valda tidszoner?"</item>
+        <item quantity="one">\"Ta bort denna tidszon? Ta bort valda tidszoner?</item>
+    </plurals>
+</resources>

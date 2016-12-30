@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Storlek</item>
+        <item>Namn</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Storlek</item>
+        <item>Namn</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Mest använda</item>
+        <item>Storlek</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Varje dag</item>
+        <item>Var tredje dag</item>
+        <item>Var 7: de dag</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Visa</item>
+        <item>Visa inte</item>
+        <item>Visa efter</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Städa upp den här filen</item>
+        <item>Visa filens plats</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Städa upp den här filen</item>
+        <item>Visa filens plats</item>
+    </string-array>
+    <string-array name="video_clean_menu">
+        <item>Städa upp den här filen</item>
+        <item>Öppna</item>
+    </string-array>
+    <string-array name="empty_floder_clean_menu">
+        <item>Städa upp</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Städa upp</item>
+        <item>Installera den här appen</item>
+        <item>Visa i mapp</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>Lägg till i undantag</item>
+    </string-array>
+    <string-array name="long_add_app_menu">
+        <item>Lägg appen till undantag</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Avinstallera</item>
+    </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Var 7: de dag</item>
+        <item>Var 15: de dag</item>
+        <item>Var 30: de dag</item>
+    </string-array>
+    <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+    </string-array>
+</resources>

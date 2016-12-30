@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Standard</item>
+        <item>Osynligt läge</item>
+        <item>Läsläge</item>
+        <item>Media läge</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>App körs i förgrunden</item>
+        <item>Display på</item>
+        <item>Skärm av</item>
+        <item>Skärm av över 10 minuter</item>
+        <item>Full skärm</item>
+        <item>Gå ut från fullskärm</item>
+        <item>App körs i bakgrunden</item>
+        <item>Telefonen laddas</item>
+        <item>Telefonen laddas inte</item>
+        <item>Telefonen är i viloläge</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Max display ljusstyrka</item>
+        <item>Max CPU frekvens</item>
+        <item>Skärmläge</item>
+        <item>CPU Användning</item>
+        <item>Dataanslutning</item>
+        <item>Plats</item>
+        <item>Första meddelande</item>
+        <item>Lås skärmen Meddelanden</item>
+        <item>Begränsa bakgrundsdataanslutningar</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Ingen</item>
+        <item>Standard</item>
+        <item>Bild</item>
+        <item>Film</item>
+        <item>Battery Saver</item>
+        <item>Balans</item>
+        <item>Prestanda</item>
+        <item>På</item>
+        <item>Av</item>
+        <item>Omedelbart</item>
+        <item>Efter 10 min</item>
+        <item>Efter 30 min</item>
+        <item>När skärmen är avstängd</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>I detta läge</item>
+        <item>Inte vald</item>
+        <item>I andra lägen väljs</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Anpassad</item>
+        <item>Batterisparare</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Nu</item>
+        <item>Bakgrund</item>
+        <item>Nyligen</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Blockera djup sömnläge</item>
+        <item>Blockera sömnläge</item>
+        <item>Söker efter Wi-Fi</item>
+        <item>Använder GPS</item>
+        <item>Ockuperar CPU</item>
+        <item>Väcker enhet ofta</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>Wi-Fi skanna</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Vakna</item>
+    </string-array>
+</resources>

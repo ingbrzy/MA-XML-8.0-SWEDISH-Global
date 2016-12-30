@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Döpa om</item>
+        <item>Ta bort</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galleri</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Sorted by creation date</item>
+        <item>Sorted by modification date</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Namn</item>
+        <item>Smeknamn</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Företag</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Födelsedag</item>
+        <item>Webbsida</item>
+        <item>Adress</item>
+        <item>Anteckning</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Liten</item>
+        <item>Medium</item>
+        <item>Stor</item>
+        <item>Enorm</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Välkommen till Anteckningar
+"</item>
+        <item>"Skapa en anteckning
+Tryck på plusset för att skapa en anteckning."</item>
+        <item>"Välj mallar
+Använd mallar för att ändra bakgrunden och stil på dina anteckningar.
+Tryck på den högra knappen i nedre kanten av anteckningen för att välja mall."</item>
+        <item>"Skapa mappar
+Organisera dina anteckningar i mappar.
+Det finns två sätt att skappa en mapp:
+1. Tryck på mappikonen i det övre högra hörnet och sedan på plusset.
+2. Tryck ned en anteckningen tills en pop-up meny visas och välj \"Flytta till\" - \"Ny mapp\"."</item>
+        <item>"Dölj anteckningar
+Skydda privata anteckningar med ett lösenord.
+Det finns två sätt att dölja en anteckning:
+1. Tryck på \"Mer\" knappen i det övre högra hörnet av en anteckning och välj \"Dölj\".
+2. Tryck ned en anteckning tills en pop-up meny visas och välj \"Dölj\"."</item>
+        <item>"Och fler bra funktioner!
+ - Bilder, checklistor, påminnelser.
+
+Lägg till bilder
+Tryck på bildikonen i nedre delen av anteckningen för att lägga till en bild.
+Du kan ta ett foto eller välja en bild från galleriet.
+När en anteckning innehåller en bild kommer den användas som en miniatyrbild för anteckningen.
+
+Skapa checklistor
+En kryssruta är en nödvändig del av en att-göra lista.
+Tryck på kryssrutsikonen på nedre delen av en anteckning för att lägga till en kryssruta till en paragraf text.
+Fyll i rutan när sakerna är gjorda.
+
+Ange påminnelser
+Ange påminnelser från anteckningar.
+Tryck \"Mer\" knappen i övre högra hörnet på en anteckning, välj \"Påminnelser\", ange tiden.
+"</item>
+    </string-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

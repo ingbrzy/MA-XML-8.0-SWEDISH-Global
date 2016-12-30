@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Standardinställning för språkkod</item>
+        <item>lördag</item>
+        <item>söndag</item>
+        <item>måndag</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshallöarna</item>
+        <item>Midwayön</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pacific Time</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Centralamerika</item>
+        <item>Central Time</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantic Time (Barbados)</item>
+        <item>Atlantic Time (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantic</item>
+        <item>Azorerna</item>
+        <item>Kap Verde-öarna</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Bryssel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>West Africa Time</item>
+        <item>Amman, Jordanien</item>
+        <item>Aten, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsingfors</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Jekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Söul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>första</item>
+        <item>andra</item>
+        <item>tredje</item>
+        <item>fjärde</item>
+        <item>senaste</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Inget svar</item>
+        <item>Ja</item>
+        <item>Kanske</item>
+        <item>Nej</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Bara den här händelsen</item>
+        <item>Den här och framtida händelser</item>
+        <item>Alla händelser</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Bara den här händelsen</item>
+        <item>Alla händelser i serien</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Transparent</item>
+        <item>Vit bakgrund</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Alltid</item>
+        <item>Först när ringsignalen tystnar</item>
+        <item>Aldrig</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 timmar före</item>
+        <item>4 timmar före</item>
+        <item>5 timmar före</item>
+        <item>6 timmar före</item>
+        <item>1 dag före</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>dag</item>
+        <item>vecka</item>
+        <item>månad</item>
+        <item>år</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>dagar</item>
+        <item>veckor</item>
+        <item>månader</item>
+        <item>år</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20:e</item>
+        <item>21:a</item>
+        <item>22:a</item>
+        <item>23:e</item>
+        <item>24:e</item>
+        <item>25:e</item>
+        <item>26:e</item>
+        <item>27:e</item>
+        <item>28:e</item>
+        <item>29:e</item>
+        <item>30:e</item>
+        <item>31:a</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Mån</item>
+        <item>Tis</item>
+        <item>Ons</item>
+        <item>Tors</item>
+        <item>Fre</item>
+        <item>Lör</item>
+        <item>Sön</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mars</item>
+        <item>Apr</item>
+        <item>Maj</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>första</item>
+        <item>andra</item>
+        <item>tredje</item>
+        <item>fjärde</item>
+        <item>sista</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Mån - Fre</item>
+        <item>Helgen</item>
+        <item>Hela veckan</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Aldrig</item>
+        <item>Tid</item>
+        <item>Räkna</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Meddelande</item>
+        <item>E-post</item>
+        <item>SMS</item>
+        <item>Larm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minuter</item>
+        <item>1 minut</item>
+        <item>5 minuter</item>
+        <item>10 minuter</item>
+        <item>15 minuter</item>
+        <item>20 minuter</item>
+        <item>25 minuter</item>
+        <item>30 minuter</item>
+        <item>45 minuter</item>
+        <item>1 timme</item>
+        <item>2 timmar</item>
+        <item>3 timmar</item>
+        <item>12 timmar</item>
+        <item>24 timmar</item>
+        <item>2 dagar</item>
+        <item>1 vecka</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Inga</item>
+        <item>0 minuter</item>
+        <item>1 minut</item>
+        <item>5 minuter</item>
+        <item>10 minuter</item>
+        <item>15 minuter</item>
+        <item>20 minuter</item>
+        <item>25 minuter</item>
+        <item>30 minuter</item>
+        <item>45 minuter</item>
+        <item>1 timme</item>
+        <item>2 timmar</item>
+        <item>3 timmar</item>
+        <item>12 timmar</item>
+        <item>24 timmar</item>
+        <item>2 dagar</item>
+        <item>1 vecka</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Upptagen</item>
+        <item>Tillgänglig</item>
+        <item>Preliminärt</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Standardinställning</item>
+        <item>Privat</item>
+        <item>Offentligt</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Den här och framtida händelser</item>
+        <item>Alla händelser</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dag</item>
+        <item>Vecka</item>
+        <item>Månad</item>
+        <item>Program</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Är några minuter sen.</item>
+        <item>Kommer om runt tio minuter.</item>
+        <item>Börja gärna, vänta inte på mig.</item>
+        <item>Jag kan tyvärr inte komma. Vi får välja en ny tid.</item>
+    </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Ingen påminnelse</item>
+        <item>Vid start av event</item>
+        <item>5 minuter före</item>
+        <item>10 minuter före</item>
+        <item>15 minuter före</item>
+        <item>30 minuter före</item>
+        <item>1 timme före</item>
+        <item>1 dag före</item>
+        <item>2 dagar före</item>
+        <item>1 vecka före</item>
+    </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Ingen påminnelse</item>
+        <item>Vid start av event</item>
+        <item>5 minuter före</item>
+        <item>10 minuter före</item>
+        <item>15 minuter före</item>
+        <item>30 minuter före</item>
+        <item>1 timme före</item>
+        <item>1 dag före</item>
+        <item>2 dagar före</item>
+        <item>1 vecka före</item>
+    </string-array>
+</resources>

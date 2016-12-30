@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Peking</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moskva</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Istanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapore</item>
+        <item>Berlin</item>
+        <item>Rom</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seoul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Klart</item>
+        <item>Molnigt</item>
+        <item>Mulet</item>
+        <item>Dimmig</item>
+        <item>Tung regnstorm</item>
+        <item>Skyfall</item>
+        <item>Regnstorm</item>
+        <item>Åskväder</item>
+        <item>Regn</item>
+        <item>Kraftigt regnfall</item>
+        <item>Måttligt regn</item>
+        <item>Duggregn</item>
+        <item>Regn och snö blandat</item>
+        <item>Snöstorm</item>
+        <item>Snö</item>
+        <item>Tung snö</item>
+        <item>Måttligt snö</item>
+        <item>Lätt snä</item>
+        <item>Kraftig sandstorm</item>
+        <item>Sand storm</item>
+        <item>Sand</item>
+        <item>Blåsig</item>
+        <item>Hagel</item>
+        <item>Damm</item>
+        <item>Dis</item>
+        <item>Frysande regn</item>
+        <item></item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Svag</item>
+        <item>Mellan</item>
+        <item>Stark</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Lämplig</item>
+        <item>Olämpligt</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Lämpligt</item>
+        <item>Olämpligt</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>N</item>
+        <item>NÖ</item>
+        <item>Ö</item>
+        <item>SÖ</item>
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bra</item>
+        <item>Tillfredsställande</item>
+        <item>Måttligt förorenat</item>
+        <item>Dålig</item>
+        <item>Mycket dålig</item>
+        <item>Svår</item>
+    </string-array>
+</resources>

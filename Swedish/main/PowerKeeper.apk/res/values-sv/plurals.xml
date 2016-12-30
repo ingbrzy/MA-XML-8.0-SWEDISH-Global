@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">%1$d steg bort från byta till Ultimate-läge</item>
+        <item quantity="one">%1$d steg bort från byta till Ultimate-läge</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">%1$d steg bort från stänga av Ultimate-läge</item>
+        <item quantity="one">%1$d steg bort från stänga av Ultimate-läge</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Avslutar %1$d steg för att låsa upp alla objekt</item>
+        <item quantity="one">Avslutar %1$d steg för att låsa upp alla objekt</item>
+    </plurals>
+</resources>
