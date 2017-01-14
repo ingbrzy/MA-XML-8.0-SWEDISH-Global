@@ -105,7 +105,6 @@
     <string name="apply_password_confirm_dlg_title">%slösenord</string>
     <string name="apply_password_confirm_dlg_msg">Använd ditt nuvarande lösenord till låsskärmen för att nå inställningar till %s.</string>
     <string name="apply_password_action">OK</string>
-    <string name="subinfo_default_name">SIM %d</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Placera ditt finger på hemknappen</string>
     <string name="maml_component_customization_title">Inställningar</string>
     <string name="default_name">Standard</string>

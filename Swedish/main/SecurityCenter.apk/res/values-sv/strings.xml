@@ -163,7 +163,6 @@ Lågtrafik: %1$s | %2$s använt"</string>
     <string name="datausage_ignore_app_list_count">Ignorerar %d appars dataanvändning</string>
     <string name="free_traffic_settings">Lågtrafik dataanvändningsinställningar</string>
     <string name="free_time_traffic">Lågtrafik dataanvändningsgräns</string>
-    <string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_start_time_summary_na">Från</string>
     <string name="power_save_on_time_end_time_summary_na">To</string>
     <string name="manual_input_traffic">Ange dataanvändning</string>
@@ -491,9 +490,6 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="tc_diagnostic_onekey_repair_botton">Lös</string>
     <string name="tc_diagnostic_repair_and_continue">Lös och fortsätt</string>
     <string name="tc_diagnostic_upload_button">Rapportera</string>
-    <string name="tc_diagnostic_fragment_default">"Om diagnostik
-1. Enheten kommer ansluta till operatörens nätverk, skicka ett gratis meddelande och vänta på operatörens svar. Detta kan ta upp till 5 minuter.
-2. Du kan lämna den här sidan under diagnostiken, det kommer ske i bakgrunden."</string>
     <string name="sim_location_diagnostic">Platsdiagnostik</string>
     <string name="operator_diagnostic">Operatörsdiagnostik</string>
     <string name="brand_diagnostic">Specifika operatörers diagnostik</string>
@@ -894,7 +890,6 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="memory_check_content">Frigjorde %s</string>
     <string name="memory_check_content_none">Tom</string>
     <string name="system_check_content_none">Säker</string>
-    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">Rensa %1$d processer för att frigöra %2$s minne</string>
     <string name="cache_header_title">Rensa %1$d cachade filer för att frigöra %2$s av utrymme</string>
     <string name="activity_title_virus">Virus</string>
@@ -1330,7 +1325,6 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="card_main_monthreport_action">Visa</string>
     <string name="card_main_speeddetail_title">Anslutningshastighet</string>
     <string name="card_main_speeddetailt_summary">Visa anslutningshastighet för valda appar</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Testa nätverk</string>
     <string name="card_main_netcheck_summary">Testa anslutningen för nätverksproblem</string>
     <string name="card_main_netcheck_action">Test</string>

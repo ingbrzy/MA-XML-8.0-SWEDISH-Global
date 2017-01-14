@@ -6,7 +6,6 @@
     <string name="sina_token_expired_warning">Weibo kontot har upphört att gälla: Vänligen bind om</string>
     <string name="sina_token_invalid_warning">Weibo kontot är ogiltigt: Vänligen bind om</string>
     <string name="sina_share_fail_content_repeat">Et gick inte att dela, innehållet existerarredan…</string>
-    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">Anteckningar;Memo</string>
     <string name="search_path_notes">Systemappar/Anteckningar</string>
     <string name="dlg_move_message">Flyttar…</string>

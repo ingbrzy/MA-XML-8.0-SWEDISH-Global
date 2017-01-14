@@ -537,7 +537,6 @@ Ta fler bilder av dina vänner!"</string>
     <string name="welcome_to_slim">Optimera lokalt utrymme</string>
     <string name="slim_introduce">Byt bilder i full upplösning med optimerade versioner efter att de har säkerhetskopierats till Mi Cloud. Full upplösning objekt kommer fortfarande att finnas i Mi Cloud.</string>
     <string name="slim_introduce_with_specific_size">Byt bilder i full upplösning med optimerade versioner efter att de har säkerhetskopierats till Mi Cloud. Full upplösning objekt kommer fortfarande att finnas i Mi Cloud. Detta kan spara upp till %1$s av lokal lagring (Mi konto krävs).</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">Säkerhetskopiera bilder och videor automatiskt (Mi konto krävs)</string>
     <string name="next">Nästa</string>
     <string name="login_and_enable_service">Logga in med Mi konto</string>

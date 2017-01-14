@@ -713,7 +713,6 @@ Kontakt kort är avstängda"</string>
     <string name="miprofile_alertdialog_message">Visa detta namn för kontakter när du frågar om att byta kort.</string>
     <string name="miprofile_alertdialog_edit">Ange namn</string>
     <string name="miprofile_switch_off_alertdialog_message">Du kommer inte kunna växla kontakt kort med andra.</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">Lägg till telefonnummer</string>
     <string name="miprofile_bind_account_alertdialog_message">Du måste lägga till denna enhets telefonnummer till ditt Mi Konto för att kunna använda denna funktion.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Lägg till nummer</string>

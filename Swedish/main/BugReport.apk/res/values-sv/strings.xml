@@ -61,7 +61,6 @@
     <string name="michat_skillset_product_title">Välj produkt</string>
     <string name="michat_skillset_business_type_title">Välj tjänst</string>
     <string name="michat_close_text">Chatt avslutad</string>
-    <string name="default_text_view">TextView</string>
     <string name="michat_message_robot_welcome">Mitt namn är Mi Bunny. Jag är en online support robot.</string>
     <string name="michat_message_join_again">Kul att du är tillbaka!</string>
     <string name="michat_invalid_url">Ogiltig adress</string>

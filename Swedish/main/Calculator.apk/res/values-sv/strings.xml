@@ -182,8 +182,6 @@
     <string name="unit_data_display_length_au">Astronomisk enhet</string>
     <string name="unit_data_display_length_ld">Månavstånd</string>
     <string name="unit_data_display_length_pc">Parsec</string>
-    <string name="unit_data_default_area_0">kv.m</string>
-    <string name="unit_data_default_area_1">kv.cm</string>
     <string name="unit_data_display_area_sq.m">Kvadratmeter</string>
     <string name="unit_data_display_area_sq.km">Kvadratkilometer</string>
     <string name="unit_data_display_area_ha">Hektar</string>

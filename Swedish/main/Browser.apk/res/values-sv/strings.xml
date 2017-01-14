@@ -158,7 +158,6 @@
     <string name="color_picker_dialog_title">Välj färg</string>
     <string name="color_picker_hue">Nyans</string>
     <string name="color_picker_saturation">Mättnad</string>
-    <string name="color_picker_value">Värde</string>
     <string name="comment_app_menu">Kommentar</string>
     <string name="comment_menu">Kommentar</string>
     <string name="common_use_phrase_bottom_bar_text_next">Nästa</string>
@@ -338,7 +337,6 @@ Lämna denna sida?"</string>
     <string name="js_dialog_before_unload_positive_button">Lämna</string>
     <string name="js_dialog_before_unload_title">Bekräfta Navigering</string>
     <string name="js_dialog_title">Sidan på \"%s\" säger:</string>
-    <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_disable_confirm_message">Att inaktivera JavaScript kan göra att vissa webbplatser visas inkorrekt.</string>
     <string name="js_disable_confirm_title">Inaktivera JavaScript?</string>
     <string name="keep_queued_download">Behåll</string>

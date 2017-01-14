@@ -101,11 +101,8 @@
     <string name="cancel_btn_label">Avbryt</string>
     <string name="default_folder_title_tools">Verktyg</string>
     <string name="default_folder_title_recommend">Fler appar</string>
-    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_game">Spel</string>
     <string name="default_folder_title_security">System</string>
-    <string name="default_folder_title_telcel">Telcel</string>
-    <string name="default_folder_title_claro">Claro</string>
     <string name="wallpaper_settings">Bakgrund</string>
     <string name="choose_wallpaper">Välj bakgrund</string>
     <string name="current_preview">Förhandsvisning</string>
@@ -121,7 +118,6 @@
     <string name="apply_both">Ställ in båda</string>
     <string name="enable_wallpaper_scroll">Aktivera sidskrollning</string>
     <string name="disable_wallpaper_scroll">Avaktivera sidskrollning</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="online_wallpaper">Online</string>
     <string name="custom_wallpaper_picker">Bläddra</string>
     <string name="reset_scene_prompt">Skärmen kommer att återställas till standardlayout.</string>

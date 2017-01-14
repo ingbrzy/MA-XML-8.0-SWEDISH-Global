@@ -1279,8 +1279,6 @@ Om du vill ta bort musik, bilder och annan användardata måste du radera "<b>US
     <string name="terms_title">Användarvillkor</string>
     <string name="webview_license_title">Systemets WebView-licens</string>
     <string name="wallpaper_attributions">Bakgrunder</string>
-    <string name="wallpaper_attributions_values">"Satellitbildsleverantörer:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_license_activity_title">Öppen källkodslicens</string>
     <string name="settings_license_activity_unavailable">Ett problem inträffade när licenserna lästes in.</string>
     <string name="settings_license_activity_loading">Läser in…</string>

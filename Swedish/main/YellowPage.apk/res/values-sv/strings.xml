@@ -160,7 +160,6 @@
     <string name="recharge_input_phone_title">Ange telefonnummer (China Mobile, China Unicom, eller China Telecom)</string>
     <string name="recharge_select_money_title">Välj påfyllning belopp</string>
     <string name="recharge_charge_range">Pris: RMB %1$s-%2$s</string>
-    <string name="recharge_charge_value">Pris: RMB %s</string>
     <string name="recharge_pay">Fyll på nu</string>
     <string name="mishop_web_payment_title">Mi Store kassan</string>
     <string name="recharge_pay_hint_license">Påfyllnings notering</string>
@@ -334,7 +333,6 @@ Kontrollera ditt spårningsnummer."</string>
     <string name="balance_inquiry_send_sms_hint">Ett SMS kommer att skickas till din leverantör för att kolla ditt saldo.</string>
     <string name="balance_inquiry_send_sms_summmary">Kolla saldo</string>
     <string name="balance_inquiry_send_sms_fail_hint">Kunde inte få saldo</string>
-    <string name="navigation_search_default_hint">Sök plats</string>
     <string name="navigation_search_automatically_positioned_city">Aktuell stad</string>
     <string name="navigation_search_positioning">Lokalisering…</string>
     <string name="navigation_search_positioning_failed">Välj en stad</string>

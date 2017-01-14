@@ -148,10 +148,6 @@ Vänd telefonen, tala med mikrofon vid läget för mottagaren, du borde höra di
     <string name="cit_audio_cali_playing">Tryck på knappen för att göra kalibrering</string>
     <string name="cit_audio_cali_file_existed">Musikfil existerar inte, kan inte göra kalibrering!</string>
     <string name="cit_audio_cali_done">Gjort kalibrering</string>
-    <string name="cit_audio_cali_valueR">Ref_diff:</string>
-    <string name="cit_audio_cali_valueT">Temp_acc:</string>
-    <string name="cit_audio_cali_valueF0">F0:</string>
-    <string name="cit_audio_cali_valueC">Räknare:</string>
     <string name="cit_audio_cali_failed">Kalibrering misslyckades, försök igen!</string>
     <string name="cit_aud_spkcal">Kalibrera</string>
     <string name="cit_audio_calibrating">Kalibrering pågår...</string>

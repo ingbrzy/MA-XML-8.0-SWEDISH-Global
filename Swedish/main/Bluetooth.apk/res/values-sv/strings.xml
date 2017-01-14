@@ -118,7 +118,6 @@
     <string name="defaultname">Bilsats</string>
     <string name="unknownName">Okänt namn</string>
     <string name="localPhoneName">Mitt namn</string>
-    <string name="defaultnumber">000000</string>
     <string name="bluetooth_sap_notif_title">SIM-åtkomst för Bluetooth</string>
     <string name="bluetooth_sap_notif_ticker">SIM-åtkomst för Bluetooth</string>
     <string name="bluetooth_sap_notif_message">Vill du begära att klienten ska koppla från?</string>
@@ -143,10 +142,8 @@
     <string name="map_auth_notif_ticker">Obex-autentiseringsbegäran</string>
     <string name="map_auth_notif_title">Sessionsnyckel</string>
     <string name="map_auth_notif_message">Ange sessionsnyckeln för %1$s</string>
-    <string name="map_defaultname">Bilsats</string>
     <string name="map_unknownName">Okänt namn</string>
     <string name="map_localPhoneName">Mitt namn</string>
-    <string name="map_defaultnumber">000000</string>
     <string name="permlab_handoverStatus">Ta emot överföringssändningar för Bluetooth.</string>
     <string name="permdesc_handoverStatus">Tillåter att information om överföringsstatus från Bluetooth tas emot.</string>
     <string name="bluetooth_map_email_settings_save">Spara</string>
