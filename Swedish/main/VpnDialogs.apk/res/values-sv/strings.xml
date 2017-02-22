@@ -9,5 +9,4 @@
     <string name="duration">Längd:</string>
     <string name="data_transmitted">Skickat:</string>
     <string name="data_received">Mottaget:</string>
-    <string name="data_value_format">%1$s byte/%2$s paket</string>
 </resources>

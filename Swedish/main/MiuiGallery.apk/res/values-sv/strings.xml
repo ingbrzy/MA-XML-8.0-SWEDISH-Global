@@ -398,7 +398,6 @@ Ta fler bilder av dina vänner!"</string>
     <string name="create_new_album">Skapa ett album</string>
     <string name="album_already_exists">Ett album med samma namn finns redan</string>
     <string name="create_new_album_failed">Kunde inte skapa</string>
-    <string name="default_album_name">Nytt album</string>
     <string name="new_album_invalid_prefix">Använd inte \".\" eller \"_\" i början av albumets namn.</string>
     <string name="new_album_invalid_char">Namn kan inte inehålla \"%s\", fyll i en bokstav eller ett nummer.</string>
     <string name="new_album_invalid_name">\"%s\" är ett systemalbum, vänligen döp om det.</string>
@@ -523,7 +522,6 @@ Ta fler bilder av dina vänner!"</string>
     <string name="browse_category_title">Bläddra</string>
     <string name="show_hidden_album_title">Visa gömda album</string>
     <string name="slideshow_interval_title">Visa varje bildspel i</string>
-    <string name="slideshow_interval_value">%1$d sekunder</string>
     <string name="slideshow_interval_dialog_title">Ange intervall</string>
     <string name="slideshow_interval_invalid">Intervall måste vara mellan 3 och 3600 sekunder</string>
     <string name="other_settings">Ytterligare inställningar</string>

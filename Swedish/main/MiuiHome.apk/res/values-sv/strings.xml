@@ -99,10 +99,6 @@
     <string name="failed_to_delete_temporary">Kan ej ta bort</string>
     <string name="confirm_btn_label">OK</string>
     <string name="cancel_btn_label">Avbryt</string>
-    <string name="default_folder_title_tools">Verktyg</string>
-    <string name="default_folder_title_recommend">Fler appar</string>
-    <string name="default_folder_title_game">Spel</string>
-    <string name="default_folder_title_security">System</string>
     <string name="wallpaper_settings">Bakgrund</string>
     <string name="choose_wallpaper">Välj bakgrund</string>
     <string name="current_preview">Förhandsvisning</string>
@@ -245,7 +241,6 @@
     <string name="recommend_apps_notice">Rekommenderade appar</string>
     <string name="recommend_apps_switch_title">Rekommenderade appar</string>
     <string name="recommend_apps_notice_nodata">Rekommenderade appar (Ingen data)</string>
-    <string name="recommend_apps_default_title">Tom</string>
     <string name="recommend_apps_tips">Denna funktion kräver anslutning till internet för att fungera normalt. För att stänga av denna funktion, tryck på mappens namn.</string>
     <string name="children_folder_title">Barn</string>
     <string name="children_mode_exit">Avsluta</string>

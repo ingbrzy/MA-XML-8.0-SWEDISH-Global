@@ -9,10 +9,6 @@
     <string name="sdcard_not_mounted_dialog_message">"Sätt i SD-kortet nu.
 "</string>
     <string name="resource_mute">Ingen</string>
-    <string name="resource_default">Standard ringsignal</string>
-    <string name="resource_ringtone_default">Ringsignaler</string>
-    <string name="resource_notification_default">Meddelanden</string>
-    <string name="resource_alarm_default">Alarm</string>
     <string name="resource_detail_header_theme_designer_title">Designer: %1$s</string>
     <string name="description_designer">Designer</string>
     <string name="description_author">Upphovsman</string>
@@ -58,7 +54,6 @@
     <string name="download_preview_failed">Kan inte ladda förhandsvisning</string>
     <string name="resource_delete_confirm">Ta bort dessa resurser?</string>
     <string name="all_resources">Alla</string>
-    <string name="resource_default_name">Resurs</string>
     <string name="resource_detail">Detaljer</string>
     <string name="resource_detail_window_title">%1$s detaljer</string>
     <string name="resource_detail_update_log_title">Uppdateringar</string>
@@ -182,9 +177,7 @@
     <string name="resource_comment_edit_title">Kommentarer om %1$s</string>
     <string name="resource_comment_edit_comment">Lägg till kommentarer</string>
     <string name="resource_comment_edit_comment_waiting">Kontrollerar historik…</string>
-    <string name="resource_comment_edit_text_default">Skriv en kommentar</string>
     <string name="resource_comment_publish">Skicka</string>
-    <string name="resource_comment_name_default">Användare %1$s</string>
     <string name="resource_comment_loading_list">Bara en sekund…</string>
     <string name="resource_comment_rate">Betygsättning:</string>
     <string name="resource_comment_entry_tips">Kommentarer (%1$s)</string>
@@ -227,7 +220,6 @@
     <string name="backup_theme_success_message">Dina aktuella temainställningar har säkerhetskopierats.</string>
     <string name="backup_theme_fail_trial_rights_message">Det går inte att säkerhetskopiera försöks resurser</string>
     <string name="backup_theme_name">Tema säkerhetskopiering</string>
-    <string name="theme_description_title_default">Standard</string>
     <string name="theme_description_title_customized">Anpassad</string>
     <string name="component_category_finest_title">Allmän</string>
     <string name="component_category_more_title">Avancerad</string>
@@ -265,7 +257,6 @@
     <string name="apply_font_tip">Starta om för att tillämpa detta temas teckensnitt.</string>
     <string name="apply_font_btn_reboot">Starta om</string>
     <string name="apply_font_btn_exclude">Inte nu</string>
-    <string name="apply_default_font_tip">Fortsätt använda systemets aktuella teckensnittet?</string>
     <string name="theme_yes">Ja</string>
     <string name="theme_no">Nej</string>
     <string name="title_component">Anpassa tema</string>
@@ -370,7 +361,6 @@
     <string name="provision_loading_tips">Vänta lite…</string>
     <string name="provision_title">Välj ett tema</string>
     <string name="provision_second_title">Select one of the several default themes</string>
-    <string name="provision_default_theme_title">Standard</string>
     <string name="theme_precast_create_notification_title">Uppdaterad till MIUI 7</string>
     <string name="theme_precast_create_notification_content">Tryck här för att visa nya teman.</string>
     <string name="theme_precast_update_notification_title">MIUI 7 teman uppdaterade</string>

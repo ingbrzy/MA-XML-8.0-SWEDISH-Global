@@ -45,7 +45,6 @@
     <string name="pref_category_quick_pay">Snabb betalning</string>
     <string name="pref_category_quick_settings">Snabbinställningar</string>
     <string name="pref_category_system">Systeminställningar</string>
-    <string name="restore_default">Återställ till standardvärden</string>
     <string name="restore_intro">Återställ standardinställningar, inklusive genvägar och deras ordning. App data på din enhet kommer inte påverkas.</string>
     <string name="show_on_keyguard">Visa på låsskärmen</string>
     <string name="theme_manager_not_supported">Temahanteraren stöds inte.</string>

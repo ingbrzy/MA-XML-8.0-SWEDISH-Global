@@ -234,8 +234,6 @@ Sidor som du ser kommer inte med i historik."</string>
     <string name="download_btn_select_none">Avmarkera alla</string>
     <string name="download_complete">Nedladdning lyckades</string>
     <string name="download_completed">Nedladdadat</string>
-    <string name="download_default_path_txt">Kom ihåg detta val</string>
-    <string name="download_dialog_default_path_invalid">Nedladdningsplatsen du valt är felaktig. Sparar till standardplats…</string>
     <string name="download_dialog_file_length_hint_txt">"Filstorlek: "</string>
     <string name="download_dialog_file_length_lessthan1kb">mindre än 1K</string>
     <string name="download_dialog_file_length_nolength_error_txt">Kunde inte ladda ned</string>
@@ -505,17 +503,9 @@ Lämna denna sida?"</string>
     <string name="pref_enable_news">Nyheter</string>
     <string name="pref_enable_novels">Böcker</string>
     <string name="pref_enable_videos">Videor</string>
-    <string name="pref_extras_reset_default">Återställ till standardvärden</string>
-    <string name="pref_extras_reset_default_dlg">Återställ inställningar till standardvärden?</string>
-    <string name="pref_extras_reset_default_summary">Återställ standardinställningar</string>
-    <string name="pref_extras_reset_default_title">Övriga</string>
     <string name="pref_extras_send_feedback">Skicka feedback</string>
     <string name="pref_extras_title">Avancerad</string>
     <string name="pref_extras_title_version">Versionsinformation</string>
-    <string name="pref_file_downlaod_save_is_reset_default_settings">Spara filer till Webbläsaren stanardplats</string>
-    <string name="pref_file_downlaod_save_reset_default_settings">Återställ standardplats</string>
-    <string name="pref_file_download_default_path_prefix">Stanard plats: %s</string>
-    <string name="pref_file_download_save_modify_default_path">Nedladdningsplats</string>
     <string name="pref_file_download_save_title">Nedladdningar</string>
     <string name="pref_fling_on_border_enabled">Svep från kanten för att byta flikar</string>
     <string name="pref_fling_on_border_enabled_title_summary">Svep från vänster eller högerkanten av skärmen för att byta mellan flikar</string>
@@ -588,7 +578,6 @@ Lämna denna sida?"</string>
     <string name="quicklink_saved_before">Denna sida har redan blivit tillagd</string>
     <string name="quicklink_user_define_webpage_title">Namn</string>
     <string name="quicklink_user_define_webpage_url">URL</string>
-    <string name="quicklinks_group_default_subtitle">Tom</string>
     <string name="quicklinks_management">Populär</string>
     <string name="quicklinks_most_visited">Lägg till på startsida</string>
     <string name="quicklinks_most_visited_subtitle">Visa nyligen besökta hemsidor i ny flik</string>
@@ -751,7 +740,6 @@ Lämna denna sida?"</string>
     <string name="v5_edit_mode_title_empty">0 valda</string>
     <string name="v5_select_all">Välj alla</string>
     <string name="version_check_button_checking">Kontrollerar…</string>
-    <string name="version_check_button_default">Sök efter uppdateringar</string>
     <string name="version_check_button_download_failed">Återuppta nedladdning</string>
     <string name="version_check_button_downloading">Laddar ner…</string>
     <string name="version_check_button_install">Installera</string>

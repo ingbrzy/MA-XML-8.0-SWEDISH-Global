@@ -72,7 +72,5 @@ Logga in på i.mi.com och försöka låsa upp din enhet därifrån"</string>
     <string name="passport_notification_need_unlock_again">Försök att låsa upp igen</string>
     <string name="device_lost">Enheten är förlorad</string>
     <string name="device_locked">Enheten är låst</string>
-    <string name="default_lock_msg_words_with_phone">Hej! Jag har förlorat min telefon. Kan du kontakta mej? Tack!</string>
-    <string name="default_lock_msg_words">Denna enhet är associerad med ett befintligt Mikonto. Av säkerhetsskäl måste du ange lösenord för att kontrollera enheten.</string>
     <string name="lock_msg_phone">Kontaktinformation: %s</string>
 </resources>

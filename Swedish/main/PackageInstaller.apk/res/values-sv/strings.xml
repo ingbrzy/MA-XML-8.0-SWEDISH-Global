@@ -81,7 +81,6 @@ Alla tidigare användardata sparas."</string>
     <string name="no_permissions">Inga behörigheter</string>
     <string name="additional_permissions">Ytterligare behörigheter</string>
     <string name="old_sdk_deny_warning">Den här appen utformades för en äldre version av Android. Om du nekar appen behörighet kan det hända att den inte längre fungerar som den ska.</string>
-    <string name="default_permission_description">utför en okänd åtgärd</string>
     <string name="app_permissions_group_summary">%1$d av %2$d appar tillåts</string>
     <string name="menu_show_system">Visa systemet</string>
     <string name="menu_hide_system">Dölj systemet</string>

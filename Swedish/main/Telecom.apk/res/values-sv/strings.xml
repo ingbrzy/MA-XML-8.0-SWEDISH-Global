@@ -29,9 +29,6 @@
     <string name="no_vm_number">Saknar nummer till röstbrevlådan</string>
     <string name="no_vm_number_msg">Inget nummer till röstbrevlåda är sparat på SIM-kortet.</string>
     <string name="add_vm_number_str">Lägg till nummer</string>
-    <string name="change_default_dialer_dialog_title">Ändra standard uppringare?</string>
-    <string name="change_default_dialer_with_previous_app_set_text">Använd %1$s istället för %2$s som standard uppringare?</string>
-    <string name="change_default_dialer_no_previous_app_set_text">Använd %ssom standard uppringare?</string>
     <string name="test_account_0_label">Q Mobile</string>
     <string name="test_account_1_label">Market Wireless</string>
     <string name="test_account_2_label">Sonoma Circles Talk Plus</string>

@@ -4,8 +4,6 @@
     <string name="copy">Kopiera</string>
     <string name="copyUrl">Kopiera webbadress</string>
     <string name="cut">Klipp ut</string>
-    <string name="defaultVoiceMailAlphaTag">Röstbrevlåda</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Inget telefonnummer)</string>
     <string name="httpErrorBadUrl">Det gick inte att öppna sidan, webbadressen är ogiltig.</string>
     <string name="httpErrorUnsupportedScheme">Protokollet stöds inte.</string>
@@ -535,7 +533,6 @@
     <string name="keyguard_password_wrong_pin_code">Fel PIN-kod.</string>
     <string name="keyguard_label_text">Tryck på Menu och sedan på 0 om du vill låsa upp.</string>
     <string name="emergency_call_dialog_number_for_display">Nödsamtalsnummer</string>
-    <string name="lockscreen_carrier_default">Ingen tjänst.</string>
     <string name="lockscreen_screen_locked">Skärmen har låsts.</string>
     <string name="lockscreen_instructions_when_pattern_enabled">Tryck på Menu om du vill låsa upp eller ringa nödsamtal.</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Tryck på Menu om du vill låsa upp.</string>
@@ -636,7 +633,6 @@ Besök "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_no_action">Vi hittade inget paket som erbjuder åtgärden FACTORY_TEST.</string>
     <string name="factorytest_reboot">Starta om</string>
     <string name="js_dialog_title">På sidan på %s står det:</string>
-    <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload_title">Bekräfta navigering</string>
     <string name="js_dialog_before_unload_positive_button">Lämna den här sidan</string>
     <string name="js_dialog_before_unload_negative_button">Stanna på den här sidan</string>
@@ -811,8 +807,6 @@ Vill du stänga sidan?"</string>
     <string name="volume_icon_description_incall">Ring</string>
     <string name="volume_icon_description_media">Media</string>
     <string name="volume_icon_description_notification">Meddelande</string>
-    <string name="ringtone_default">Standardringsignal</string>
-    <string name="ringtone_default_with_actual">Standardringsignal (%1$s)</string>
     <string name="ringtone_silent">Ingen</string>
     <string name="ringtone_picker_title">Ringsignaler</string>
     <string name="ringtone_unknown">Okänd ringsignal</string>
@@ -824,7 +818,6 @@ Vill du stänga sidan?"</string>
     <string name="wifi_watchdog_network_disabled_detailed">" har en dålig Internetanslutning."</string>
     <string name="wifi_connect_alert_title">Tillåt anslutning?</string>
     <string name="wifi_connect_alert_message">Appen %1$s vill ansluta till Wi-Fi-nätverket %2$s</string>
-    <string name="wifi_connect_default_application">En app</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi direkt</string>
     <string name="wifi_p2p_turnon_message">Starta direkt Wi-Fi-användning. Detta inaktiverar Wi-Fi-användning med klient/trådlös surfzon.</string>
     <string name="wifi_p2p_failed_message">Det gick inte att starta Wi-Fi direkt.</string>
@@ -952,7 +945,6 @@ Vill du stänga sidan?"</string>
     <string name="ime_action_next">Nästa</string>
     <string name="ime_action_done">Färdig</string>
     <string name="ime_action_previous">Föreg.</string>
-    <string name="ime_action_default">Utför</string>
     <string name="dial_number_using">"Slå nummer 
 med %s"</string>
     <string name="create_contact_using">"Skapa kontakt
@@ -1088,7 +1080,6 @@ för kontot %s."</string>
     <string name="sha256_fingerprint">SHA-256-fingeravtryck</string>
     <string name="sha1_fingerprint">SHA-1-fingeravtryck:</string>
     <string name="activity_chooser_view_see_all">Visa alla</string>
-    <string name="activity_chooser_view_dialog_title_default">Välj aktivitet</string>
     <string name="share_action_provider_share_with">Dela med</string>
     <string name="list_delimeter">", "</string>
     <string name="sending">Skickar ...</string>
@@ -1097,11 +1088,6 @@ för kontot %s."</string>
     <string name="activity_resolver_use_always">Alltid</string>
     <string name="activity_resolver_use_once">Bara en gång</string>
     <string name="activity_resolver_work_profiles_support">%1$s har inte stöd för arbetsprofil</string>
-    <string name="default_audio_route_name">Mobil</string>
-    <string name="default_audio_route_name_headphones">Hörlurar</string>
-    <string name="default_audio_route_name_dock_speakers">Dockningsstationens högtalare</string>
-    <string name="default_media_route_name_hdmi">HDMI</string>
-    <string name="default_audio_route_category_name">System</string>
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth-ljud</string>
     <string name="wireless_display_route_description">Trådlös skärm</string>
     <string name="media_route_button_content_description">Casta</string>
@@ -1309,9 +1295,6 @@ Batterisparläget inaktiveras automatiskt när enheten laddas."</string>
     <string name="toolbar_collapse_description">Komprimera</string>
     <string name="zen_mode_feature_name">Stör ej</string>
     <string name="zen_mode_downtime_feature_name">Avbrottstid</string>
-    <string name="zen_mode_default_weeknights_name">Vardagskväll</string>
-    <string name="zen_mode_default_weekends_name">I helgen</string>
-    <string name="zen_mode_default_events_name">Händelse</string>
     <string name="muted_by">%1$s har stängt av ljudet</string>
     <string name="system_error_wipe_data">Ett internt problem har uppstått i enheten, och det kan hända att problemet kvarstår tills du återställer standardinställningarna.</string>
     <string name="system_error_manufacturer">Ett internt problem har uppstått i enheten. Kontakta tillverkaren om du vill veta mer.</string>

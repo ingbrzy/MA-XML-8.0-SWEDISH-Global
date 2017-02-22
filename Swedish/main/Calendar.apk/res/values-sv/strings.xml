@@ -112,7 +112,6 @@
     <string name="preferences_title">Kalender</string>
     <string name="menu_reminder_preferences">Påminnelser</string>
     <string name="account_and_calendar">Konton</string>
-    <string name="default_reminder_mode">Påminnelser</string>
     <string name="time_zone">Tidszon</string>
     <string name="event_all_day_label">Hela dagen</string>
     <string name="today_no_events">Inga evenemang</string>
@@ -171,7 +170,6 @@
     <string name="birthday_notification_text_today">Glöm inte att gratta dem.</string>
     <string name="birthday_notification_title_days_later">"%1$s's %2$s närmar sig."</string>
     <string name="birthday_notification_text_days_later">%1$s dagar tills %4$s (%5$s)</string>
-    <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
     <string name="birthday_event_description_special">%1$s %2$ss %3$s %4$s %5$s</string>
     <string name="birthday_event_description_today">Idag är</string>
     <string name="birthday_event_description_tomorrow">Imorgon är</string>
@@ -187,8 +185,6 @@
     <string name="setting_holiday_display_desc">Helgdagskort finns under din agenda på hemsidan</string>
     <string name="setting_holiday_reminder">Helg påminnelse</string>
     <string name="setting_others">Övrigt</string>
-    <string name="preferences_default_reminder_title">Standardtid för påminnelse</string>
-    <string name="preferences_default_reminder_dialog">Standardtid för påminnelse</string>
     <string name="work_day_indication">: (</string>
     <string name="rest_day_indication">: )</string>
     <string name="edit_event_confirm_message">Ignorera ändringar?</string>
@@ -318,7 +314,6 @@
     <string name="search_history_cleared">Sökhistoriken har rensats.</string>
     <string name="preferences_alerts_title">Aviseringar</string>
     <string name="preferences_alerts_popup_title">Popup-meddelande</string>
-    <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_show_week_num_title">Visa veckonummer</string>
     <string name="preferences_about_title">Om</string>
     <string name="preferences_build_version">Programversion</string>

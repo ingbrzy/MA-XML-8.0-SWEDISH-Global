@@ -129,7 +129,6 @@
     <string name="deny">Neka</string>
     <string name="dlg_close">Stäng</string>
     <string name="dlg_switch">Byt</string>
-    <string name="device_info_default">Okänd</string>
     <string name="show_dev_on">Nu är du en utvecklare!</string>
     <string name="show_dev_already">Det behövs inte. Du är redan utvecklare.</string>
     <string name="header_category_wireless_networks">Nätverk</string>
@@ -259,7 +258,6 @@ Sändningen använder Bluetooth-signaler med låg energiförbrukning."</string>
     <string name="proxy_port_label">Port</string>
     <string name="proxy_exclusionlist_label">Gå förbi för</string>
     <string name="proxy_exclusionlist_hint">exempel.se,mycomp.test.com,localhost</string>
-    <string name="proxy_defaultView_text">Återställ standardinställningar</string>
     <string name="proxy_action_text">Klar</string>
     <string name="proxy_hostname_label">Värdnamn</string>
     <string name="proxy_hostname_hint">proxy.exempel.se</string>
@@ -544,8 +542,6 @@ Om du vill fortsätta använda mobilen måste du återställa standardinställni
     <string name="bluetooth_pairing_key_msg">Bluetooth-koppplingskod</string>
     <string name="bluetooth_enter_passkey_msg">Ange kopplingskoden och tryck på Retur</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN-koden innehåller bokstäver eller symboler</string>
-    <string name="bluetooth_pin_values_hint">Vanligtvis 0000 eller 1234</string>
-    <string name="bluetooth_pin_values_hint_16_digits">Måste bestå av 16 siffror</string>
     <string name="bluetooth_enter_pin_other_device">Du kan också behöva ange PIN-koden på den andra enheten.</string>
     <string name="bluetooth_enter_passkey_other_device">Du kan också behöva ange lösenordet på den andra enheten.</string>
     <string name="bluetooth_confirm_passkey_msg">Om du vill koppla med:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> måste lösenordet &lt;br>&lt;b>%2$s&lt;/b> visas i den</string>
@@ -790,7 +786,6 @@ Vill du tillåta detta för alla appar som vill söka efter nätverk?"</string>
     <string name="wifi_hotspot_configure_ap_text">Installation för Wi-Fi-surfzon</string>
     <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK Wi‑Fi-surfzon</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s portable hotspot</string>
-    <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_calling_settings_title">Wi-Fi-samtal</string>
     <string name="wifi_calling_mode_title">Samtalsinställningar</string>
     <string name="wifi_calling_mode_dialog_title">Wi-Fi-samtalsläge</string>
@@ -1148,9 +1143,7 @@ Du kan fortsätta, men appar som har flyttats till den här platsen kan vara ryc
     <string name="error_apn_empty">APN får inte vara tomt.</string>
     <string name="error_mcc_not3">MCC-fältet måste bestå av 3 siffror.</string>
     <string name="error_mnc_not23">MNC-fältet måste vara 2 eller 3 siffror</string>
-    <string name="restore_default_apn">Återställer standardinställningar för APN.</string>
     <string name="menu_restore">Nollställ</string>
-    <string name="restore_default_apn_completed">Återställning av standardinställningar för APN har slutförts.</string>
     <string name="reset_network_title">Nätverksinställningarna har återställts</string>
     <string name="reset_network_desc">"Alla nätverksinställningar kommer att återställas, inklusive:
 
@@ -1222,9 +1215,6 @@ Om du vill ta bort musik, bilder och annan användardata måste du radera "<b>US
     <string name="network_settings_title">Mobila nätverk</string>
     <string name="manage_mobile_plan_title">Mobilplan</string>
     <string name="sms_application_title">Sms-app</string>
-    <string name="sms_change_default_dialog_title">Vill du byta sms-app?</string>
-    <string name="sms_change_default_dialog_text">Vill du använda %1$s som sms-app i stället för %2$s?</string>
-    <string name="sms_change_default_no_previous_dialog_text">Vill du använda %s som sms-app?</string>
     <string name="network_scorer_change_active_dialog_title">Vill du byta Wi-Fi-assistentapp?</string>
     <string name="network_scorer_change_active_dialog_text">Vill du hantera nätverksanslutningarna med %1$s i stället för med %2$s?</string>
     <string name="network_scorer_change_active_no_previous_dialog_text">Vill du hantera nätverksanslutningarna med %s?</string>
@@ -1377,7 +1367,6 @@ Om du vill ta bort musik, bilder och annan användardata måste du radera "<b>US
     <string name="sort_order_size">Sortera efter storlek</string>
     <string name="show_running_services">Visa tjänster som körs</string>
     <string name="show_background_processes">Visa cachade processer</string>
-    <string name="default_emergency_app">App för nödsituationer</string>
     <string name="reset_app_preferences">Återställ inställningarna</string>
     <string name="reset_app_preferences_title">Vill du återställa?</string>
     <string name="reset_app_preferences_desc">"Det återställer alla inställningar för:
@@ -1425,7 +1414,6 @@ Om du vill ta bort musik, bilder och annan användardata måste du radera "<b>US
     <string name="security_settings_billing_desc">Du kan behöva betala för den här appen:</string>
     <string name="security_settings_premium_sms_desc">Vill du skicka premium-SMS?</string>
     <string name="computing_size">Beräknar…</string>
-    <string name="invalid_size_value">Det gick inte att beräkna paketstorleken.</string>
     <string name="empty_list_msg">Du har inte installerat några appar från tredje part.</string>
     <string name="version_text">version %1$s</string>
     <string name="move_app">Flytta</string>
@@ -1453,7 +1441,6 @@ Om du vill ta bort musik, bilder och annan användardata måste du radera "<b>US
     <string name="app_ops_settings">Appåtgärder</string>
     <string name="app_ops_running">Kör</string>
     <string name="app_ops_never_used">(Har aldrig använts)</string>
-    <string name="no_default_apps">Inga standardappar.</string>
     <string name="storageuse_settings_title">Använt utrymme</string>
     <string name="storageuse_settings_summary">Visa lagring som används av appar</string>
     <string name="runningservices_settings_title">Aktiva tjänster</string>
@@ -1521,7 +1508,6 @@ Om du vill ta bort musik, bilder och annan användardata måste du radera "<b>US
     <string name="keyboard_layout_dialog_title">Välj en tangentbordslayout</string>
     <string name="keyboard_layout_dialog_setup_button">Ställ in tangentbordslayouter</string>
     <string name="keyboard_layout_dialog_switch_hint">Växla genom att trycka på Ctrl-Mellanslag</string>
-    <string name="keyboard_layout_default_label">Standard</string>
     <string name="keyboard_layout_picker_title">Tangentbordslayouter</string>
     <string name="user_dict_settings_title">Egen ordlista</string>
     <string name="user_dict_settings_summary" />
@@ -1704,7 +1690,6 @@ Om genvägen på den låsta skärmen används och flera personer använder enhet
     <string name="captioning_typeface">Teckensnittsfamilj</string>
     <string name="captioning_preview_text">Textstilen kommer att se ut så här</string>
     <string name="captioning_preview_characters">Aa</string>
-    <string name="locale_default">Standard</string>
     <string name="color_title">Färg</string>
     <string name="color_unspecified">Standard</string>
     <string name="color_none">Ingen</string>
@@ -1730,7 +1715,6 @@ Om genvägen på den låsta skärmen används och flera personer använder enhet
     <string name="disable_service_title">Vill du avbryta %1$s?</string>
     <string name="disable_service_message">Om du trycker på OK avbryts %1$s.</string>
     <string name="accessibility_no_services_installed">Inga tjänster är installerade</string>
-    <string name="accessibility_service_default_description">Ingen beskrivning har angetts.</string>
     <string name="settings_button">Inställningar</string>
     <string name="print_settings">Utskrift</string>
     <string name="print_settings_title">Utskriftstjänster</string>
@@ -1914,19 +1898,8 @@ Om genvägen på den låsta skärmen används och flera personer använder enhet
     <string name="voice_interaction_security_warning">Den här röstinmatningstjänsten kan ha röstövervakning aktiverad hela tiden och styra röstaktiverade appar åt dig. Den kommer från %s. Vill du aktivera tjänsten?</string>
     <string name="tts_settings">Text-till-tal-inställningar</string>
     <string name="tts_settings_title">Text-till-tal</string>
-    <string name="use_default_tts_settings_title">Använd alltid mina inställningar</string>
-    <string name="use_default_tts_settings_summary">Standardinställningarna nedan åsidosätter appinställningarna</string>
-    <string name="tts_default_settings_section">Standardinställningar</string>
-    <string name="tts_default_synth_title">Standardmotor</string>
-    <string name="tts_default_synth_summary">Konfigurera talsyntesmotorn så att den kan användas för talad test</string>
-    <string name="tts_default_rate_title">Talhastighet</string>
-    <string name="tts_default_rate_summary">Talhastighet för texten</string>
-    <string name="tts_default_pitch_title">Ton</string>
-    <string name="tts_default_pitch_summary">Påverkar den talade textens ton</string>
-    <string name="tts_default_lang_title">Språk</string>
     <string name="tts_lang_use_system">Använd systemspråk</string>
     <string name="tts_lang_not_selected">Inget språk valt</string>
-    <string name="tts_default_lang_summary">Ange språkspecifik röst för den talade texten</string>
     <string name="tts_play_example_title">Lyssna på ett exempel</string>
     <string name="tts_play_example_summary">Spela upp en kort demonstration av talsyntes</string>
     <string name="tts_install_data_title">Installera röstdata</string>
@@ -1938,7 +1911,6 @@ Om genvägen på den låsta skärmen används och flera personer använder enhet
     <string name="tts_engine_error_reselect">Välj en annan motor</string>
     <string name="tts_engine_security_warning">Talsyntesmotorn kan samla in all text som ska talas, inklusive personlig information som lösenord och kreditkortsnummer. Den kommer från %s-motorn. Vill du använda den här talsyntesmotorn?</string>
     <string name="tts_engine_network_required">Det krävs en fungerande nätverksanslutning för att text-till-tal ska fungera för det här språket.</string>
-    <string name="tts_default_sample_string">Detta är ett exempel på talsyntes</string>
     <string name="tts_status_title">Status för standardspråk</string>
     <string name="tts_status_ok">%1$s stöds</string>
     <string name="tts_status_requires_network">%1$s kräver nätverksanslutning</string>
@@ -2016,7 +1988,6 @@ Om genvägen på den låsta skärmen används och flera personer använder enhet
     <string name="auto_restore_title">Automatisk återställning</string>
     <string name="auto_restore_summary">När du installerar om en app återställs säkerhetskopierade inställningar och data</string>
     <string name="backup_inactive_title">Säkerhetskopieringstjänsten är inaktiv.</string>
-    <string name="backup_configure_account_default_summary">Säkerhetskopierade data lagras för tillfället inte på något konto</string>
     <string name="local_backup_password_title">Lösenord för säkerhetskopia av datorn</string>
     <string name="local_backup_password_summary_none">De fullständiga säkerhetskopiorna av datorn är för närvarande inte skyddade</string>
     <string name="local_backup_password_summary_change">Tryck om du vill ändra eller ta bort lösenordet för fullständig säkerhetskopiering av datorn</string>
@@ -2440,20 +2411,13 @@ Alla användare kan uppdatera appar för samtliga användares räkning."</string
     <string name="nfc_payment_settings_title">Snudda och betala</string>
     <string name="nfc_payment_how_it_works">Så fungerar det</string>
     <string name="nfc_payment_no_apps">Betala med mobilen i butiker</string>
-    <string name="nfc_payment_default">Standardapp för betalning</string>
-    <string name="nfc_payment_default_not_set">Har inte angetts</string>
     <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
-    <string name="nfc_payment_use_default">Använd standard</string>
-    <string name="nfc_payment_favor_default">Alltid</string>
     <string name="nfc_payment_favor_open">Förutom när en annan betalningsapp är öppen</string>
     <string name="nfc_payment_pay_with">Vid en Tryck och betala-terminal betalar du med:</string>
     <string name="nfc_how_it_works_title">Betala vid en kassaterminal</string>
     <string name="nfc_how_it_works_content">Konfigurera en betalningsapp. Sedan behöver du bara hålla mobilens baksida mot terminaler med symbolen för kontaktlös överföring.</string>
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_more_title">Mer ...</string>
-    <string name="nfc_payment_set_default_label">Vill du ange den här som standard?</string>
-    <string name="nfc_payment_set_default">Vill du alltid använda %1$s när du betalar med Tryck och betala?</string>
-    <string name="nfc_payment_set_default_instead_of">Vill du alltid använda %1$s i stället för %2$s när du betalar med Tryck och betala?</string>
     <string name="restriction_settings_title">Begränsningar</string>
     <string name="restriction_menu_reset">Ta bort begränsningar</string>
     <string name="restriction_menu_change_pin">Ändra PIN-koden</string>
@@ -2546,7 +2510,6 @@ Alla användare kan uppdatera appar för samtliga användares räkning."</string
     <string name="search_recents_queries_label">Senaste sökningar</string>
     <string name="search_results_label">Resultat</string>
     <string name="keywords_wifi">wifi wi-fi-nätverksanslutning</string>
-    <string name="keywords_more_default_sms_app">textmeddelande sms:a meddelanden skicka sms</string>
     <string name="keywords_more_mobile_networks">mobiltelefon mobil operatör trådlös data 4g 3g 2g lte</string>
     <string name="keywords_wifi_calling">wifi wi-fi samtal ringer</string>
     <string name="keywords_home">översikt</string>
@@ -2576,10 +2539,8 @@ Alla användare kan uppdatera appar för samtliga användares räkning."</string
     <string name="keywords_keyboard_and_ime">textkorrigering korrigera ljud vibrera automatiskt språk gest föreslå förslag tema stötande ord skriva emoji internationell</string>
     <string name="keywords_reset_apps">återställa inställningar standardinställningar</string>
     <string name="keywords_emergency_app">nödsituation i nödfall standardapp</string>
-    <string name="keywords_default_phone_app">standarduppringningsapp</string>
     <string name="keywords_all_apps">appar ladda ned appar system</string>
     <string name="keywords_app_permissions">appar behörigheter säkerhet</string>
-    <string name="keywords_default_apps">appar standard</string>
     <string name="keywords_ignore_optimizations">ignorera optimeringar för slumrande app i standbyläge</string>
     <string name="keywords_lockscreen">dra lösenord mönster pinkod</string>
     <string name="setup_wifi_nfc_tag">Ange en NFC-tagg för Wi-Fi</string>
@@ -2589,7 +2550,6 @@ Alla användare kan uppdatera appar för samtliga användares räkning."</string
     <string name="status_write_success">Klart!</string>
     <string name="status_failed_to_write">Det går inte att skriva data till NFC-etiketter. Om problemet kvarstår testar du med en annan etikett</string>
     <string name="status_tag_not_writable">Du kan inte skriva i NFC-etiketten. Använd en annan etikett.</string>
-    <string name="default_sound">Standardsignal</string>
     <string name="notification_settings">Ljud och avisering</string>
     <string name="media_volume_option_title">Medievolym</string>
     <string name="alarm_volume_option_title">Alarmvolym</string>
@@ -2768,13 +2728,11 @@ Detta innebär ett extra skydd för data på en borttappad eller stulen enhet."<
     <string name="encrypt_talkback_dialog_message_password">Tillgänglighetstjänster som %1$s kommer inte att vara tillgängliga när du anger lösenordet och startar enheten.</string>
     <string name="imei_information_summary">IMEI relevant information</string>
     <string name="slot_number">(Spår%1$d)</string>
-    <string name="launch_by_default">Öppna som standard</string>
     <string name="storage_summary_format">%1$s används i %2$s</string>
     <string name="app_launch_domain_links_title">Applänkar</string>
     <string name="app_launch_open_domain_urls_title">Öppna länkar som stöds</string>
     <string name="app_launch_open_domain_urls_summary">Öppna utan att fråga</string>
     <string name="app_launch_supported_domain_urls_title">Länkar som stöds</string>
-    <string name="app_launch_other_defaults_title">Andra standardinställningar</string>
     <string name="storage_type_internal">internminne</string>
     <string name="storage_type_external">Extern lagring</string>
     <string name="app_data_usage">Appens dataanvändning</string>
@@ -2792,8 +2750,6 @@ Detta innebär ett extra skydd för data på en borttappad eller stulen enhet."<
     <string name="notifications_three_items">%1$s/%2$s/%3$s</string>
     <string name="runtime_permissions_summary_no_permissions_granted">Inga behörigheter har beviljats</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Inga behörigheter har begärts</string>
-    <string name="launch_defaults_some">Några standardinställningar har angetts</string>
-    <string name="launch_defaults_none">Inga standardinställningar har angetts</string>
     <string name="filter_all_apps">Alla appar</string>
     <string name="filter_enabled_apps">Aktiverad</string>
     <string name="filter_personal_apps">Personligt</string>
@@ -2821,20 +2777,13 @@ Detta innebär ett extra skydd för data på en borttappad eller stulen enhet."<
     <string name="app_link_open_ask">Fråga varje gång</string>
     <string name="app_link_open_never">Öppna inte i den här appen</string>
     <string name="fingerprint_not_recognized">Identifierades inte</string>
-    <string name="default_apps_title">Standardappar</string>
     <string name="assist_and_voice_input_title">Assistent och röstinmatning</string>
-    <string name="default_assist_title">Assistentapp</string>
-    <string name="default_assist_none">Ingen</string>
     <string name="choose_assist_title">Välj assistentapp</string>
     <string name="assistant_security_warning_title">Vill du använda %s som assistent?</string>
     <string name="assistant_security_warning">Assistenten kan läsa information om apparna på systemet, inklusive information som visas på skärmen eller är åtkomlig i apparna.</string>
     <string name="assistant_security_warning_agree">Godkänn</string>
     <string name="assistant_security_warning_disagree">Godkänn inte</string>
     <string name="choose_voice_input_title">Välj röstinmatning</string>
-    <string name="default_browser_title">Webbläsarapp</string>
-    <string name="default_browser_title_none">Ingen standardwebbläsare</string>
-    <string name="default_phone_title">Appen Telefon</string>
-    <string name="default_app">(Standard)</string>
     <string name="apps_storage">Applagring</string>
     <string name="usage_access">Åtkomst till användningsdata</string>
     <string name="permit_usage_access">Tillåt åtkomst till användningsdata</string>
@@ -3294,7 +3243,6 @@ Detta innebär ett extra skydd för data på en borttappad eller stulen enhet."<
     <string name="power_hide_mode_summary">Spara batteriet genom att begränsa enskilda appar bakgrundsprocesser, Wi-Fi och mobila dataanslutningar, och GPS-användning</string>
     <string name="battery_indicator_style">Batteriindikator</string>
     <string name="power_usage_history">Batteri användning</string>
-    <string name="default_usb_mode">USB anslutning</string>
     <string name="wifi_tether_settings_title">Personlig hotspot</string>
     <string name="tether_and_hotspot_title">Tethering and hotspot</string>
     <string name="lock_settings">Låsskärm &amp; lösenord</string>
@@ -3354,7 +3302,6 @@ Detta innebär ett extra skydd för data på en borttappad eller stulen enhet."<
     <string name="wifi_disabled_help">Wi-Fi kopplades ifrån på grund av dålig anslutning</string>
     <string name="wifi_wps_overlap_error">En annan Wi-Fi session upptäcktes. Vänta en minut eller två och försök igen.</string>
     <string name="wifi_p2p_wps_setup">Ställ in WPS</string>
-    <string name="default_input_method">Välj standardtangentbord</string>
     <string name="locale_settings">Region</string>
     <string name="country_name">%s (system)</string>
     <string name="install_preinstall_app">Laddar appar…</string>
@@ -3817,7 +3764,6 @@ kan du använda andras nätverk också"</string>
     <string name="wifi_required_info_text">För att färdigställa installationen måste din enhet få tillgång till Wi-Fi. Efter installationen kan du ändra mellan mobildata och Wi-Fi.</string>
     <string name="toast_need_login">Logga in på ditt Mi Konto</string>
     <string name="preferred_app_settings">Standard</string>
-    <string name="preferred_app_settings_default">Standard</string>
     <string name="preferred_app_settings_not_selected">Inte vald</string>
     <string name="preferred_app_settings_reset">Återställ till standardvärden</string>
     <string name="preferred_app_settings_reset_message">Vilka appar som används som standard kommer återställas.</string>

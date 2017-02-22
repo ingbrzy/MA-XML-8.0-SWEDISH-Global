@@ -192,7 +192,6 @@
     <string name="toast_uninstall_success">Avinstallering Färdig</string>
     <string name="toast_app_no_residual_on_sdcard">App har inte några filer som lagrats på ditt SD kort</string>
     <string name="last_check_canceled">Tidigare skanning avbröts</string>
-    <string name="default_cache_type">Data Filer</string>
     <string name="deepclean_normal_title">Rensa automatiskt</string>
     <string name="deepclean_normal_item_desc1">Skräp storlek</string>
     <string name="deepclean_normal_item_desc2">Rensarens verksamhet kommer inte att påverka systemets prestanda</string>
@@ -268,7 +267,6 @@
     <string name="hints_cleanfinish">Rensa utförd</string>
     <string name="hints_num">0</string>
     <string name="mainbtn_text_quick_cleanup">Rensa %s</string>
-    <string name="mainbtn_text_quick_cleanup_default">Städa</string>
     <string name="pref_title_open_optimizer_memory_scan">Skanna app minne</string>
     <string name="toast_select_white_need_remove">Välj objekt att ta bort</string>
     <string name="network_not_available">Kan inte ansluta till nätverket</string>

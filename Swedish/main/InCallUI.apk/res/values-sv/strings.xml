@@ -119,7 +119,6 @@
     <string name="pause_prompt_no">Nej</string>
     <string name="waiting_close_airplane_mode">Bara en sekund…</string>
     <string name="select_voice_call_sim">Välj SIM kort</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">Kan inte använda SIM %2$d, samtidigt som SIM %1$d används.</string>
     <string name="select_one_sim_title">Kan endast använda SIM %1$d</string>
     <string name="can_not_use">Kan inte använda</string>
@@ -157,8 +156,6 @@
     <string name="non_ivr_menu_collapse_menu">Fäll ihop meny</string>
     <string name="livetalk_left_minute">%s min kvar</string>
     <string name="livetalk_dial">Använder Fyll-på paket</string>
-    <string name="areacode_set_default">Ange som standard</string>
-    <string name="default_area_code_setting">Standard riktnummer</string>
     <string name="not_activate_sim_card_content_title">Telefonnummer är inte verifierat</string>
     <string name="not_activate_sim_card_content">Verifiera ditt telefonnummer för att börja använda Fyll-på paket. Du kan fortfarande ringa som vanligt, men kommer bli debiterad av din operatör.</string>
     <string name="not_activate_sim_card_content_with_operator">Verifiera SIM %1$s (%2$s) för att ringa med Fyll-på paket. Du kan fortfarande ringa som vanligt, men kommer bli debiterad av din operatör.</string>

@@ -39,7 +39,6 @@
     <string name="toast_notes_hidden_count">Dolde %1$s</string>
     <string name="toast_notes_unhidden_count">Visade %1$s</string>
     <string name="toast_notes_delete_success">Borttagen</string>
-    <string name="theme_title_default">Standard</string>
     <string name="theme_title_invitation">Inbjudan</string>
     <string name="theme_title_arty">Blommig</string>
     <string name="theme_title_antique">Höst</string>
@@ -116,7 +115,6 @@
     <string name="search_hint">Sök anteckningar</string>
     <string name="search_setting_description">Sök text i dina anteckningar</string>
     <string name="search">Noteringar</string>
-    <string name="default_folder_name">Namnlös mapp</string>
     <string name="notify_alarm_title">Anteckningspåminnelse</string>
     <string name="alarm_bar_title">Påminnelse</string>
     <string name="toast_message_add_image_fail">Kunde inte lägga till bild</string>
@@ -147,7 +145,6 @@
     <string name="sns_footer_text">Skapad med Mi Anteckningar</string>
     <string name="dlg_info_creating_message">Skapar meddelande…</string>
     <string name="sns_message_disconnect">Kan inte ansluta till nätverket. Kontrollera anslutningen och försök igen.</string>
-    <string name="sns_content_default">Dela foto</string>
     <string name="sns_toast_empty">Kan inte skicka tomt meddelande</string>
     <string name="sns_toast_over_limit">Skickad som bild</string>
     <string name="sns_desc_preview_weibo">Weibo meddelande förhandsvisning</string>

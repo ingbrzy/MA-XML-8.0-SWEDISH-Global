@@ -219,7 +219,6 @@ http: //zhushou.xiaomi.com"</string>
     <string name="comment_publish">Skicka</string>
     <string name="edit_comment_title">Redigera kommentar</string>
     <string name="edit_comment">Lägg till kommentarer</string>
-    <string name="edit_text_default">Skriv en kommentar</string>
     <string name="comment_sending">Skickar…</string>
     <string name="comment_upload_failed">Det går inte att skicka kommentar</string>
     <string name="comment_upload_hint">Tack för din feedback!</string>

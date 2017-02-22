@@ -107,7 +107,6 @@
     <string name="apply_password_action">OK</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Placera ditt finger på hemknappen</string>
     <string name="maml_component_customization_title">Inställningar</string>
-    <string name="default_name">Standard</string>
     <string name="resource_select">Välj</string>
     <string name="group_name_contacts">Kontakter</string>
     <string name="group_name_friends">Vänner</string>

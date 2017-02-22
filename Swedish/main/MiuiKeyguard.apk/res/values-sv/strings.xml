@@ -39,7 +39,6 @@
     <string name="lockscreen_access_pattern_cleared">Mönster rensat</string>
     <string name="lockscreen_access_pattern_cell_added">Cell tillagd</string>
     <string name="lockscreen_access_pattern_detected">Möster färdigt</string>
-    <string name="default_lockscreen_unlock_hint_text">Dra upp för att låsa upp</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har skrivit fel lösenord %d gånger. Efter %d fler gånger, kommer du att tillfrågas om att låsa upp din telefon med ditt Mi konto.
 
  Försök igen om %d sekunder."</string>
@@ -54,7 +53,6 @@
     <string name="unlock_string">Lås upp</string>
     <string name="open_camera_hint_text">Svep till vänster för att öppna %s</string>
     <string name="open_remote_center_hint_text">Svep till höger för att öppna %s</string>
-    <string name="left_action_default_hint_text">Mi Fjärrkontroll</string>
     <string name="click_to_enter_text">Tryck för att visa</string>
     <string name="fingerprint_try_again_text">Försök igen</string>
     <string name="fingerprint_not_identified_title">Ange lösenord</string>

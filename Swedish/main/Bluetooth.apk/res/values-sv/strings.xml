@@ -115,7 +115,6 @@
     <string name="auth_notif_ticker">Obex-autentiseringsbegäran</string>
     <string name="auth_notif_title">Sessionsnyckel</string>
     <string name="auth_notif_message">Ange sessionsnyckeln för %1$s</string>
-    <string name="defaultname">Bilsats</string>
     <string name="unknownName">Okänt namn</string>
     <string name="localPhoneName">Mitt namn</string>
     <string name="bluetooth_sap_notif_title">SIM-åtkomst för Bluetooth</string>

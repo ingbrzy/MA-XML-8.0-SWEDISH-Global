@@ -106,7 +106,6 @@
     <string name="tts_report_aqi" />
     <string name="tts_report_split" />
     <string name="tts_report_defautl_head" />
-    <string name="realtime_wind_default_title">Vind</string>
     <string name="realtime_humidity_title">Relativ luftfuktighet</string>
     <string name="realtime_aqi_title">Luftkvalitetsindex</string>
     <string name="aqi_detail_sub_title">AQI detaljer</string>
