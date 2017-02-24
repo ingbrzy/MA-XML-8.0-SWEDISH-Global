@@ -38,7 +38,6 @@
     <string name="pm_lable_name">Om root tillgång</string>
     <string name="pc_activity_title">Optimera batteri</string>
     <string name="game_booster">Gaming speed boost</string>
-    <string name="top_game">Top games</string>
     <string name="game_setting">Game settings</string>
     <string name="gs_app_back_self_start">Battery saver</string>
     <string name="gs_only_self_start_for_list">Restrict background processes to save battery for gaming</string>
