@@ -598,15 +598,6 @@
         <item>Visa senaste appar</item>
         <item>Visa meny</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Inga</item>
-        <item>Show recent apps</item>
-        <item>Start Assistent</item>
-        <item>Launch Google Now</item>
-        <item>Stäng nuvarande app</item>
-        <item>Launch quick search</item>
-        <item>Visa meny</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekunder</item>
         <item>1 sekund</item>
