@@ -201,6 +201,7 @@ MMMM d"</string>
     <string name="torch_activity_hint">Tryck [icon] för att aktivera ficklampan på låsskärmen</string>
     <string name="torch_opened">Ficklampa på</string>
     <string name="torch_closed">Ficklampa av</string>
+    <string name="lockscreen_carrier_default">Ingen tjänst</string>
     <string name="chooseUsbActivity">Välj en enhet för USB-enheten</string>
     <string name="usb_storage_title">USB ansluten</string>
     <string name="usb_storage_message">Du har anslutit till din dator via USB. Tryck på knappen nedan om du vill kopiera filer mellan din dator och din Android telefons USB-lagring.</string>

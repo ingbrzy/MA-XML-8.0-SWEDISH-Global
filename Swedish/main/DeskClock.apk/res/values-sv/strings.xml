@@ -71,6 +71,8 @@
     <string name="legal_workday_message">" (Alarm avstängd under helgdagar)"</string>
     <string name="legal_off_day">Lagligt lediga dagar</string>
     <string name="legal_off_day_message">" (Alarm avstäng under veckodagar)"</string>
+    <string name="default_alarm_alert">Ange standard alarmljud</string>
+    <string name="default_alarm_title">Standard ringsignal</string>
     <string name="menu_item_sort_by_gmt_offset">Sortera efter tid</string>
     <string name="menu_item_sort_by_name">Sortera efter namn</string>
     <string name="birthday_alarm">Födelsedag alarm</string>
@@ -91,6 +93,7 @@
     <string name="delete_alarm">Ta bort alarm</string>
     <string name="delete_alarm_confirm">Ta bort vald(a) alarm?</string>
     <string name="label">Ställ in etikett</string>
+    <string name="default_label">Alarm</string>
     <string name="set_alarm">Ställ in alarm</string>
     <string name="alarm_vibrate">Vibrera</string>
     <string name="alarm_repeat">Repetera</string>

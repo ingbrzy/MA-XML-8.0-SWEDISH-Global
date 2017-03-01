@@ -280,6 +280,7 @@ Du behöver flasha utvecklar versionen av MIUI för att beviljas root åtkomst."
     <string name="permission_group_title_media_related">Multimedia</string>
     <string name="permission_group_title_settings_related">Inställningar</string>
     <string name="ok">OK</string>
+    <string name="default_permission_description">genomför en okänd handling</string>
     <string name="location_settings">Platsinställningar</string>
     <string name="location_warning">%1$s är en leverantör av platstjänster till denna enheten. Platstillgång kan modifieras från platsinställningar.</string>
     <string name="permission_request_title">Tillåtelse begärd</string>

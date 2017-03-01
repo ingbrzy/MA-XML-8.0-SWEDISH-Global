@@ -143,6 +143,7 @@ Lågtrafik: %1$s | %2$s använt"</string>
     <string name="pref_avaible_traffic">Data abonnemang</string>
     <string name="pref_daily_traffic">Rusningsdatagräns</string>
     <string name="pref_data_usage_not_set">Ange gräns för dataanvändning</string>
+    <string name="pref_warning_values">Varningsgräns för dataanvändning</string>
     <string name="pref_pkg_begin_date">Återställningsdatum för användning</string>
     <string name="pref_month_first_day">1</string>
     <string name="pref_month_begin_date">Återställningsdatum för användning</string>
@@ -308,6 +309,7 @@ Lågtrafik: %1$s | %2$s använt"</string>
     <string name="tc_sms_report_get_sms_failure">Kunde inte hämta format för dataanvändnings SMS</string>
     <string name="tc_sms_report_get_sms_timeout">Begäran tog för lång tid</string>
     <string name="tc_sms_report_get_sms_successs">SMS format för dataanvändning uppdaterad</string>
+    <string name="tc_sms_report_get_default">Det tillkommer inga avgifter för meddelanden som används för att hämta dataanvändningen från din operatör.</string>
     <string name="tc_sms_report_toast_text">Hämtar info…</string>
     <string name="privacy_declare_dialog_title">Användarvillkor</string>
     <string name="privacy_declare_dialog_message">Genom användning av den här tjänsten godkänner du Operas &lt;a href=%s>Användarvillkor&lt;/a>.</string>
@@ -353,6 +355,8 @@ Lågtrafik: %1$s | %2$s använt"</string>
     <string name="daily_limit_and_lock_screen">Datagräns &amp; notifikationer</string>
     <string name="pref_title_traffic_limit_number">Storlek</string>
     <string name="pref_title_over_traffic_limit_warning">När överskriden</string>
+    <string name="reach_daily_limit_value_title">Daglig datagräns nådd</string>
+    <string name="reach_daily_limit_value_body">Minska din mobila dataanvändning.</string>
     <string name="daily_limit_network_available_body">Tryck för att visa dataanvändning.</string>
     <string name="daily_limit_over_message">Du har överskridit din dagliga datagräns.</string>
     <string name="three_percent_total_pkg">%s (3%% av månatlig data)</string>
@@ -361,6 +365,7 @@ Lågtrafik: %1$s | %2$s använt"</string>
     <string name="lock_screen_warning_category">Notifikationer på låsskärmen</string>
     <string name="lock_screen_warning_switch_title">Visa varningar på låsskärmen</string>
     <string name="lock_screen_warning_switch_summary">Visa varningar på låsskärmen när dataanvändning överskrider en viss gräns</string>
+    <string name="lock_screen_warning_value">Varning för dataanvändning</string>
     <string name="traffic_setting_completed">OK</string>
     <string name="traffic_setting_extra_pkg_title">Övriga inställningar</string>
     <string name="traffic_setting_extra_pkg_summary">Justera abonnemang och gräns för användning</string>
@@ -849,6 +854,7 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="last_check_date_yesterday">"Skannat igår "</string>
     <string name="last_check_never_checked">Skanna nu</string>
     <string name="last_check_canceled">Tidigare skanning avbröts</string>
+    <string name="last_checked_default">Skannat %s dagar sedan</string>
     <string name="examination_score_100">Allt ser bra ut!</string>
     <string name="examination_score_100_with_recommend">%d objekt kan optimeras</string>
     <string name="examination_score_80_100">Några objekt kan optimeras</string>
@@ -985,6 +991,7 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="menu_item_virus_install_monitor_title">Skanna innan installation</string>
     <string name="menu_item_virus_install_monitor_summary">Skanna appar för virus innan installation</string>
     <string name="activity_title_virus_settings">Inställningar</string>
+    <string name="hints_virus_lib_update_default_summary">Senaste uppdateringstid okänd</string>
     <string name="menu_item_virus_lib_auto_update_summary">Uppdaterad den %s</string>
     <string name="hints_virus_app_list_item_summary">Virus (app)</string>
     <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
@@ -1009,6 +1016,7 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="activity_title_perm_manager">Behörigheter</string>
     <string name="activity_title_auto_start_manager">Autostart</string>
     <string name="activity_title_notification_bar_manager">Notifikationer</string>
+    <string name="activity_title_default_apps_manager">Standardappar</string>
     <string name="activity_title_permission_manager">Behörigheter</string>
     <string name="activity_title_other_permission_manager">Andra behörigheter</string>
     <string name="activity_title_root_manager">Root åtkomst</string>
@@ -1184,6 +1192,9 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="pref_category_title_lock_screen_memory_clean">Rensa på låsskärmen</string>
     <string name="pref_title_lock_screen_memory_clean">Rensa på låsskärmen</string>
     <string name="pref_summary_lock_screen_memory_clean">Rensa automatiskt när enheten är låst</string>
+    <string name="title_default_app">MIUI %s är inte angivet som standard</string>
+    <string name="summary_default_app">%s är inte angiven som standardapp</string>
+    <string name="toast_default_app">%1$s är angiven som standard för systemets %2$s</string>
     <string name="notification_title_cmcc_app_check">%d dagar sedan den senaste kollen</string>
     <string name="notification_summary_cmcc_app_check">Tryck här för att visa detaljer.</string>
     <string name="title_cmcc_app_check">Verifikation inte slutförd</string>
@@ -1429,6 +1440,7 @@ or enter App lock password"</string>
     <string name="button_text_disconnect_now">Koppla från</string>
     <string name="apps_item_sms_reset_button_text">Återställ till standardvärden</string>
     <string name="apps_item_sms_title">Standardinställningar för meddelanden</string>
+    <string name="apps_item_sms_default_set_success">Angivet</string>
     <string name="apps_item_virus_cleanup_text">Klart</string>
     <string name="apps_item_virus_cleanup_success">Rensat</string>
     <string name="apps_item_virus_summary_installed">Installerade appar</string>
@@ -1486,6 +1498,7 @@ or enter App lock password"</string>
     <string name="safe_result_item_info_system_scan">Betalningsövervakning är på</string>
     <string name="safe_result_item_info_system_antivirus">Skydd mot nätfiske</string>
     <string name="safe_result_item_info_sms_auth">Begränsa åtkomst till verifikations koder för tredjepartsappar</string>
+    <string name="safe_result_item_info_sms_default">Ändra till standard meddelande app</string>
     <string name="safe_result_item_info_sms_url">Skydd från skadliga SMS URL</string>
     <string name="safe_result_item_info_app_sign">Inga inofficiella appar</string>
     <string name="safe_result_item_info_app_virus">Inga virus eller riskabla appar</string>
@@ -1561,6 +1574,9 @@ or enter App lock password"</string>
     <string name="optimize_result_button_purchase_flow">Visa alla</string>
     <string name="optimize_result_button_purchase">Köp</string>
     <string name="optimize_result_button_cloudspace">Lägg till lagringsutrymme i molnet</string>
+    <string name="optimize_result_title_system_default_settings">Standardinställningar har ändrats</string>
+    <string name="optimize_result_summary_system_default_settings">Med användning av standard MIUI appar ökar nivån av systemets stabilitet och säkerhet.</string>
+    <string name="optimize_result_toast_system_default_settings">Återställde standardinställningar</string>
     <string name="optimize_result_toast_system_no_item_selected">Inga objekt valda</string>
     <string name="optimize_result_title_sucurity_risk">Säkerhetsrisker funna</string>
     <string name="optimize_result_summary_sucurity_risk">Vissa säkerhetsfunktioner är avstängda. Aktivera dessa funktioner för att göra enheten säkrare:</string>

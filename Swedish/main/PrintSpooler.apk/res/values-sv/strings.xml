@@ -51,6 +51,7 @@
     <string name="reason_unknown">okänt</string>
     <string name="printer_unavailable">%1$s – inte tillgänglig</string>
     <string name="print_write_error_message">Det gick inte att skriva till filen</string>
+    <string name="print_error_default_message">Det fungerade tyvärr inte. Försök igen.</string>
     <string name="print_error_retry">Försök igen</string>
     <string name="print_error_printer_unavailable">Den här skrivaren är inte tillgänglig just nu.</string>
     <string name="print_preparing_preview">Förbereder förhandsvisning ...</string>

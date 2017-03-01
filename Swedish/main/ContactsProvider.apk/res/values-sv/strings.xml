@@ -7,6 +7,7 @@
     <string name="upgrade_out_of_memory_notification_ticker">Uppdateringen kräver mer minne.</string>
     <string name="upgrade_out_of_memory_notification_title">Updating storage for contacts</string>
     <string name="upgrade_out_of_memory_notification_text">Tap to complete the update.</string>
+    <string name="default_directory">Kontakter</string>
     <string name="local_invisible_directory">Andra</string>
     <string name="read_write_all_voicemail_label">Tillgång till alla röstmeddelanden</string>
     <string name="read_write_all_voicemail_description">Tillåter appen att spara och hämta alla röstmeddelanden som enheten har tillgång till.</string>
