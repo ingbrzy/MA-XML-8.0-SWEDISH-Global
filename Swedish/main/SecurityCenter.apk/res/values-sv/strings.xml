@@ -547,8 +547,6 @@ Försök med en annan nätverkskabel. Om du misstänker att det är ett problem 
     <string name="power_consume_rank_title">Batteri användning</string>
     <string name="power_consume_rank_software">Appar</string>
     <string name="power_consume_rank_hardware">Hårdvara</string>
-    <string name="power_consume_total_software">Appar: %1$d%%</string>
-    <string name="power_consume_total_hardware">Hårdvara: %1$d%%</string>
     <string name="power_consume_other">Övriga</string>
     <string name="battery_desc_other_apps">Ström förbrukad av andra appar</string>
     <string name="power_settings_title">Ange</string>
