@@ -13,12 +13,8 @@
         <item quantity="one">%d objekt</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d vald</item>
+        <item quantity="other">%1$d valda</item>
         <item quantity="one">%1$d vald</item>
-    </plurals>
-    <plurals name="items_file">
-        <item quantity="other"> (%1$d objekt)</item>
-        <item quantity="one"> (%1$d objekt)</item>
     </plurals>
     <plurals name="items_picture">
         <item quantity="other"> (%1$d objekt)</item>
@@ -34,15 +30,15 @@
     </plurals>
     <plurals name="search_head_hint_file">
         <item quantity="other">\"%1$s\" relaterade filer (%2$d items)</item>
-        <item quantity="one">\"%1$s\" relaterade filer (%2$d item)</item>
+        <item quantity="one">\"%1$s\" relaterade filer (%2$d objekt)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
         <item quantity="other">Märk \"%1$s\" relaterade filer (%2$d artiklar)</item>
         <item quantity="one">Märk \"%1$s\" relaterade filer (%2$d artikel)</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d minutes ago</item>
-        <item quantity="one">%1$d minute ago</item>
+        <item quantity="other">%1$d minuter sedan</item>
+        <item quantity="one">%1$d minut sedan</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d timmar sedan</item>
@@ -52,49 +48,13 @@
         <item quantity="other">%1$d dagar sedan</item>
         <item quantity="one">%1$d dag sedan</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%1$d sekunder</item>
-        <item quantity="one">%1$d sekund</item>
-    </plurals>
-    <plurals name="mins">
-        <item quantity="other">%1$d minutes</item>
-        <item quantity="one">%1$d minute</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d timmar</item>
-        <item quantity="one">%1$d timme</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="other">%1$d dagar</item>
-        <item quantity="one">%1$d dag</item>
-    </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Hittat %1$d nya filer</item>
         <item quantity="one">Hittat %1$d ny fil</item>
     </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">Tog emot %1$d filer från %2$s</item>
-        <item quantity="one">Tog emot %1$d fil från %2$s</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Tog emot %1$d filer från WeChat</item>
-        <item quantity="one">Tog emot %1$d fil från WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d WeChat video är på väg att löpa ut</item>
-        <item quantity="one">%1$d WeChat video är på väg att löpa ut</item>
-    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">%1$d video i WeChat samtal är på väg att löpa ut. Säkerhetskopiera den till din enhets internminne?</item>
         <item quantity="one">%1$d video i WeChat samtal är på väg att löpa ut. Säkerhetskopiera den till din enhets internminne?</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">%1$d nya WeChat dekaler idag</item>
-        <item quantity="one">%1$d ny WeChat klistermärke idag</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">Backade upp %1$d WeChat videos.</item>
-        <item quantity="one">Backade upp 1 WeChat video. Backade upp %1$d WeChat videos.</item>
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">Hittade %1$s nya videos</item>
@@ -108,48 +68,72 @@
         <item quantity="other">%1$s visningar</item>
         <item quantity="one">%1$s visning</item>
     </plurals>
-    <plurals name="video_num">
-        <item quantity="other">%1$s video</item>
-        <item quantity="one">%1$s video</item>
-    </plurals>
-    <plurals name="follower_num">
-        <item quantity="other">följare</item>
-        <item quantity="one">följare</item>
-    </plurals>
-    <plurals name="user_upload_items">
-        <item quantity="other">video</item>
-        <item quantity="one">video</item>
-    </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s videor</item>
-        <item quantity="one">%1$s video</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> videor</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> video</item>
     </plurals>
     <plurals name="number_of_comment_flow">
-        <item quantity="other">%1$s comments</item>
-        <item quantity="one">%1$s comment</item>
+        <item quantity="other">%1$s kommentarer</item>
+        <item quantity="one">%1$s kommentar</item>
     </plurals>
     <plurals name="user_sign_limt">
-        <item quantity="other">You can enter %d characters</item>
-        <item quantity="one">You can enter %d character</item>
+        <item quantity="other">Du kan ange%d tecken</item>
+        <item quantity="one">Du kan ange%d tecken</item>
     </plurals>
     <plurals name="video_items">
-        <item quantity="other"> %1$d items</item>
-        <item quantity="one"> %1$d item</item>
+        <item quantity="other">%1$d objekt</item>
+        <item quantity="one">%1$d objekt</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> days</item>
-        <item quantity="one">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> day</item>
+        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> dagar</item>
+        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> dag</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• You uploaded &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> videos,</item>
-        <item quantity="one">• You uploaded &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> video,</item>
+        <item quantity="other">• Du har överfört &lt;font color=#fc7050>%1$s&lt;/font> videor.</item>
+        <item quantity="one">• Du har överfört &lt;font color=#fc7050>%1$s&lt;/font> video.</item>
     </plurals>
     <plurals name="original_user_play_2">
-        <item quantity="other">You made &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> people happy!</item>
-        <item quantity="one">You made &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> person happy!</item>
+        <item quantity="other">Du gjorde &lt;font color =# fc7050>%1$s&lt;/font> personer glada!</item>
+        <item quantity="one">Du gjorde &lt;font color =# fc7050>%1$s&lt;/font> personen glad!</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• You got &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> followers!</item>
-        <item quantity="one">• You got &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> follower!</item>
+        <item quantity="other">• Du har &lt;font color=#fc7050>%1$s&lt;/font> följare!</item>
+        <item quantity="one">• Du har &lt;font color=#fc7050>%1$s&lt;/font> följare!</item>
+    </plurals>
+    <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Få%1$d mera anhängare att uppgradera din status</item>
+        <item quantity="one">Få%1$d mer anhängare att uppgradera din status</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> anhängaren</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> anhängare</item>
+    </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s pärlor</item>
+        <item quantity="one">%1$s pärla</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Collect &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> more gems to participate in the lucky draw.</item>
+        <item quantity="one">Collect &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> more gem to participate in the lucky draw.</item>
+    </plurals>
+    <plurals name="clockin_days">
+        <item quantity="other">Checked in %1$s days in a row</item>
+        <item quantity="one">Checked in %1$s day in a row</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">You got &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> points</item>
+        <item quantity="one">You got &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> point</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">Checked in %1$s days in a row, keep going!</item>
+        <item quantity="one">Checked in %1$s day in a row, keep going!</item>
+    </plurals>
+    <plurals name="total_topic_num">
+        <item quantity="other">%1$s topics</item>
+        <item quantity="one">%1$s topic</item>
+    </plurals>
+    <plurals name="total_user_num">
+        <item quantity="other">%1$s people</item>
+        <item quantity="one">%1$s person</item>
     </plurals>
 </resources>

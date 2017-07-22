@@ -1,34 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skannar…</item>
+        <item>Ansluter…</item>
+        <item>Autentiserar…</item>
+        <item>Erhåller IP-adress…</item>
+        <item>Ansluten</item>
+        <item>Pausad</item>
+        <item>Kopplar ifrån…</item>
+        <item>Frånkopplad</item>
+        <item>Misslyckades</item>
+        <item>Blockerat</item>
+        <item>Undviker just nu dålig anslutning</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skannar…</item>
+        <item>Ansluter till %1$s…</item>
+        <item>Autentiserar med %1$s…</item>
+        <item>Hämtar IP-adress från %1$s…</item>
+        <item>Ansluten till: %1$s</item>
+        <item>Pausad</item>
+        <item>Kopplar ifrån %1$s…</item>
+        <item>Frånkopplad</item>
+        <item>Misslyckades</item>
+        <item>Blockerat</item>
+        <item>Undviker just nu dålig anslutning</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Kontrollera aldrig</item>
+        <item>Kontrollera bara DRM-innehåll</item>
+        <item>Kontrollera alltid</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Använd aldrig HDCP-kontroll</item>
+        <item>Använd bara HDCP-kontroll för DRM-innehåll</item>
+        <item>Använd alltid HDCP-kontroll</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Av</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Av</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Av</item>
+        <item>64 kB/loggbuffert</item>
+        <item>256 kB/loggbuffert</item>
+        <item>1 MB/loggbuffert</item>
+        <item>4 MB/loggbuffert</item>
+        <item>16 MB/loggbuffert</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animering avstängd</item>
+        <item>Animering i skala 0,5x</item>
+        <item>Animering i skala 1x</item>
+        <item>Animering i skala 1,5x</item>
+        <item>Animering i skala 2x</item>
+        <item>Animering i skala 5x</item>
+        <item>Animering i skala 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animering avstängd</item>
+        <item>Animering i skala 0,5x</item>
+        <item>Animering i skala 1x</item>
+        <item>Animering i skala 1,5x</item>
+        <item>Animering i skala 2x</item>
+        <item>Animering i skala 5x</item>
+        <item>Animering i skala 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animering avstängd</item>
+        <item>Animering i skala 0,5x</item>
+        <item>Animering i skala 1x</item>
+        <item>Animering i skala 1,5x</item>
+        <item>Animering i skala 2x</item>
+        <item>Animering i skala 5x</item>
+        <item>Animering i skala 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Inga</item>
+        <item>480 p</item>
+        <item>480 p (säkert)</item>
+        <item>720 p</item>
+        <item>720 p (säkert)</item>
+        <item>1080 p</item>
+        <item>1080 p (säkert)</item>
+        <item>4K</item>
+        <item>4K (säkert)</item>
+        <item>4K (uppskalat)</item>
+        <item>4K (uppskalat, säkert)</item>
+        <item>720 p, 1080 p (dubbla skärmar)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Inga</item>
+        <item>Logcat</item>
+        <item>Systrace (grafik)</item>
+        <item>Anropsstacken på glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Av</item>
+        <item>Rita icke-rektangulära urklippsavsnitt i blått</item>
+        <item>Markera testade ritningskommandon i grönt</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Av</item>
+        <item>På skärmen som fält</item>
+        <item>I adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Av</item>
+        <item>Visa områden som överskrider gränsen</item>
+        <item>Visa områden för deuteranomali</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standardgräns</item>
+        <item>Inga bakgrundsprocesser</item>
+        <item>Högst 1 process</item>
+        <item>Högst 2 processer</item>
+        <item>Högst 3 processer</item>
+        <item>Högst 4 processer</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Laddar</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB-ethernet)</item>
+        <item>Ljudkälla</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Mycket långsamt</item>
+        <item>Långsamt</item>
+        <item>Normalt</item>
+        <item>Snabbt</item>
+        <item>Snabbare</item>
+        <item>Mycket snabbt</item>
+        <item>Supersnabbt</item>
+        <item>Turbosnabbt</item>
+        <item>Snabbast</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Starka (standard)</item>
+        <item>Naturliga</item>
+        <item>Standardfärger</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Berikade färger</item>
+        <item>Naturliga färger så som ögat ser dem</item>
+        <item>Färger som har anpassats för digitalt innehåll</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Globalt</item>
         <item>LTE/CDMA</item>
         <item>LTE/GSM/UMTS</item>
     </string-array>
+    <string-array name="preferred_network_mode_values_world_mode">
+        <item>10</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Nätstandard</item>
+        <item>Dölj nummer</item>
+        <item>Visa nummer</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM/WCDMA, CDMA and EvDo</item>
-        <item>TD-SCDMA, GSM/WCDMA and LTE</item>
-        <item>TD-SCDMA, WCDMA and LTE</item>
-        <item>TD-SCDMA, GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM and LTE</item>
-        <item>TD-SCDMA and GSM</item>
-        <item>TD-SCDMA and LTE</item>
-        <item>TD-SCDMA and WCDMA</item>
-        <item>TD-SCDMA endast</item>
-        <item>LTE/WCDMA</item>
-        <item>Endast LTE</item>
-        <item>LTE/GSM/CDMA auto (PRL)</item>
-        <item>LTE/GSM auto (PRL)</item>
-        <item>LTE/CDMA auto (PRL)</item>
-        <item>GSM/CDMA auto (PRL)</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>TDSCDMA only</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>EvDo endast</item>
-        <item>WCDMA endast</item>
-        <item>CDMA auto (PRL)</item>
-        <item>GSM auto (PRL)</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
         <item>WCDMA endast</item>
         <item>GSM endast</item>
-        <item>Föredra WCDMA</item>
+        <item>GSM/WCDMA preferred</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>Engelska</item>
@@ -39,6 +213,15 @@
         <item>Kinesiskt</item>
         <item>Hebreiska</item>
     </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Endast hemma</item>
         <item>Automatisk</item>
@@ -46,6 +229,10 @@
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY Av</item>

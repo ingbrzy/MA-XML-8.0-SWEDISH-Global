@@ -8,9 +8,17 @@
         <item quantity="other">%s appar kan visa meddelanden</item>
         <item quantity="one">1 app kan visa meddelande</item>
     </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d toggles placed above bar are active</item>
+        <item quantity="one">1 toggle placed above bar are active</item>
+    </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Du är nu %1$d steg från att bli utvecklare.</item>
         <item quantity="one">Du är nu %1$d steg från att bli utvecklare.</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Vill du ta bort de valda språken?</item>
+        <item quantity="one">Vill du ta bort det valda språket?</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">%1$d fingeravtryck har konfigurerats</item>
@@ -43,6 +51,58 @@
     <plurals name="wrong_pin_code">
         <item quantity="other">Du angav fel pinkod för SIM-kortet. %d försök återstår.</item>
         <item quantity="one">Du angav fel pinkod för SIM-kortet. %d försök återstår innan du måste kontakta operatören för att låsa upp enheten.</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d objekt</item>
+        <item quantity="one">1 objekt</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Extremt kort fördröjning (%1$d ms)</item>
+        <item quantity="one">Extremt kort fördröjning (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Mycket kort fördröjning (%1$d ms)</item>
+        <item quantity="one">Mycket kort fördröjning (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Kort fördröjning (%1$d ms)</item>
+        <item quantity="one">Kort fördröjning (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Lång fördröjning (%1$d ms)</item>
+        <item quantity="one">Lång fördröjning (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Mycket lång fördröjning (%1$d ms)</item>
+        <item quantity="one">Mycket lång fördröjning (%1$d ms)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d utskriftsjobb</item>
+        <item quantity="one">1 utskriftsjobb</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Lita på eller ta bort certifikaten</item>
+        <item quantity="one">Lita på eller ta bort certifikatet</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s har installerat certifikatutfärdare för enheten. Detta innebär att nätverksaktivitet på enheten, som e-postmeddelanden, appar och säkra webbplatser, kan kontrolleras.
+
+Kontakta administratören om du vill veta mer om certifikaten."</item>
+        <item quantity="one">"%s har installerat en certifikatutfärdare för enheten. Detta innebär att nätverksaktivitet på enheten, som e-postmeddelanden, appar och säkra webbplatser, kan kontrolleras.
+
+Kontakta administratören om du vill veta mer om certifikatet."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s har installerat certifikatutfärdare för jobbprofilen. Detta innebär att nätverksaktivitet på jobbet, som e-postmeddelanden, appar och säkra webbplatser, kan kontrolleras.
+
+Kontakta administratören om du vill veta mer om certifikaten."</item>
+        <item quantity="one">"%s har installerat en certifikatutfärdare för jobbprofilen. Detta innebär att nätverksaktivitet på jobbet, som e-postmeddelanden, appar och säkra webbplatser, kan kontrolleras.
+
+Kontakta administratören om du vill veta mer om certifikatet."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Kontrollera certifikaten</item>
+        <item quantity="one">Kontrollera certifikatet</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d appar kan läsa meddelanden</item>
@@ -80,9 +140,37 @@
         <item quantity="other">%1$d appar har använt minne under %2$s</item>
         <item quantity="one">1 app har använt minne under %2$s</item>
     </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d appar får inte skicka aviseringar</item>
+        <item quantity="one">%d app får inte skicka aviseringar</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d appar har obegränsad dataåtkomst när Databesparing är aktiverat</item>
+        <item quantity="one">1 app har obegränsad dataåtkomst när Databesparing är aktiverat</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d risks found</item>
+        <item quantity="one">%d risk found</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d apps are allowed to autostart</item>
+        <item quantity="one">%d app are allowed to autostart</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN must be %d digits</item>
+        <item quantity="one">PIN must be %d digit</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">Shared %d networks</item>
+        <item quantity="one">Shared %d network</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d enheter</item>
         <item quantity="one">%d enhet</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d people connected</item>
+        <item quantity="one">%1$d people connected</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Du har %1$d steg kvar från att ange din telefoninfo.</item>

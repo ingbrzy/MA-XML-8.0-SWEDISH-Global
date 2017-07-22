@@ -19,16 +19,33 @@
         <item>Intervju</item>
         <item>HD</item>
     </string-array>
+    <string-array name="record_scenes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
     <string-array name="record_scenes_summaries">
-        <item>Record through 2 channels, listen to stereo sound in the earphones</item>
-        <item>"Move the mic closer to the sound's source for better quality"</item>
-        <item>Place the phone between 2 people to record them both clearly</item>
-        <item>High dynamic range technology allows the microphone capture more detailed sound</item>
+        <item>Spela in musik med bättre kvalitet</item>
+        <item>Flytta mikrofonen närmare ljudkällan för bättre kvalitet</item>
+        <item>Placera telefonen mellan två personer för att spela in deras konversation med god ljudkvalitet</item>
+        <item>High Dynamic Range-tekniken gör det möjligt för mikrofonen att fånga mer detaljerat ljud</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Spela in genom 2 kanaler, lyssna på stereoljud i hörlurarna</item>
+        <item>Flytta mikrofonen närmare ljudkällan för bättre kvalitet</item>
+        <item>Placera telefonen mellan två personer för att spela in deras konversation med god ljudkvalitet</item>
+        <item>High Dynamic Range-tekniken gör det möjligt för mikrofonen att fånga mer detaljerat ljud</item>
     </string-array>
     <string-array name="record_quality_entries">
         <item>Hög</item>
         <item>Standard</item>
         <item>Låg</item>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="record_quality_summaries">
         <item>MP3, ~192kbit/s, ~90MB/h</item>

@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Glid</item>
+        <item>Slide</item>
         <item>Crossfade</item>
-        <item>Tumla</item>
-        <item>Sida</item>
-        <item>Kaskad</item>
-        <item>Rotera</item>
-        <item>Kub</item>
+        <item>Tumble</item>
+        <item>Page</item>
+        <item>Cascade</item>
+        <item>Rotate</item>
+        <item>Cube</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Standard tema</item>
         <item>Centrera</item>
         <item>Vänster</item>
         <item>Höger</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Standard</item>
@@ -45,5 +53,12 @@
         <item>Hagel</item>
         <item>Flygande damm</item>
         <item>Dis</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Teman</item>
+        <item>Widgets</item>
+        <item>Bakgrunder</item>
+        <item>Effekter</item>
+        <item>Layout</item>
     </string-array>
 </resources>

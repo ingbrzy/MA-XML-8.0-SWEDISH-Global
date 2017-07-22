@@ -1,30 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="Nminutes">
-        <item quantity="other">%d minuter</item>
-        <item quantity="one">1 minut</item>
+    <plurals name="Ndays">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">1 dag</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d timmar</item>
         <item quantity="one">1 timme</item>
     </plurals>
-    <plurals name="Ndays">
-        <item quantity="other">%d dagar</item>
-        <item quantity="one">1 dag</item>
-    </plurals>
-    <plurals name="weekN">
-        <item quantity="other">VECKA %d</item>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">1 minut</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+ %d</item>
         <item quantity="one">+ 1</item>
     </plurals>
-    <plurals name="Nevents">
-        <item quantity="other">%d händelser</item>
-        <item quantity="one">1 händelse</item>
+    <plurals name="weekN">
+        <item quantity="other">VECKA %d</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">After %1$d dagar på %2$s</item>
+        <item quantity="one">After %1$d dag på %2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">%1$d dagar sedan på %2$s</item>
+        <item quantity="one">%1$d dag sedan på %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d veckor före</item>
+        <item quantity="one">%d vecka före</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">%1$s days</item>
+        <item quantity="one">%1$s day</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Jubileum: %2$d år före %1$s om 3 dagar</item>
+        <item quantity="one">Jubileum: %2$d år före %1$s om 3 dagar</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Jubileum: %2$d år sedan %1$s</item>
+        <item quantity="one">Jubileum: %2$d år sedan %1$s</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">%1$s years</item>
+        <item quantity="one">%1$s year</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s-år gammal</item>
+        <item quantity="one">%1$s-år gammal</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">%1$s days left</item>
+        <item quantity="one">%1$s day left</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$ddagar före</item>
+        <item quantity="one">%1$ddag före</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$ddagar före</item>
+        <item quantity="one">%1$ddag före</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$ddagar efter</item>
+        <item quantity="one">%1$ddag efter</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">%1$ddagar före</item>
+        <item quantity="one">%1$ddag före</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d dagar</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d månader</item>
+        <item quantity="one">%1$d månad</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d veckor</item>
+        <item quantity="one">%1$d vecka</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d år</item>
+        <item quantity="one">%1$d år</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%darbets dagar</item>
+        <item quantity="one">%darbets dag</item>
     </plurals>
     <plurals name="N_remaining_events">
         <item quantity="other">%d händelser till</item>
+        <item quantity="one">1 händelse</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d händelser</item>
         <item quantity="one">1 händelse</item>
     </plurals>
     <plurals name="Nmins">

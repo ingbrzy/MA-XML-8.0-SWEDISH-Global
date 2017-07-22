@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="download_finished">
-        <item quantity="other">&amp;lt;font color==\"red\">%d låtar&amp;lt;/font> nedladdade</item>
-        <item quantity="one">&amp;lt;font color==\"red\">%d låt&amp;lt;/font> nedladdad</item>
+        <item quantity="other">&lt;font color==\"red\">%d låtar&lt;/font> nedladdade</item>
+        <item quantity="one">&lt;font color==\"red\">%d låt&lt;/font> nedladdad</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&amp;lt;font color==\"red\">%d låtar&amp;lt;/font> laddas ned</item>
-        <item quantity="one">&amp;lt;font color==\"red\">%d låt&amp;lt;/font> laddas ned</item>
+        <item quantity="other">&lt;font color==\"red\">%d låtar&lt;/font> laddas ned</item>
+        <item quantity="one">&lt;font color==\"red\">%d låt&lt;/font> laddas ned</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Radera %d objekt?</item>
+        <item quantity="one">Radera %d objekt?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d downloads removed</item>
+        <item quantity="one">%d download removed</item>
     </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d låtar hittade</item>
@@ -16,17 +24,13 @@
         <item quantity="other">%d dagar kvar</item>
         <item quantity="one">%d dag kvar</item>
     </plurals>
-    <plurals name="NTrackstoDownload">
-        <item quantity="other">%d låtar kommer laddas ned</item>
-        <item quantity="one">1 låt kommer laddas ned</item>
-    </plurals>
     <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Ta bort %d spellistor?</item>
-        <item quantity="one">Ta bort %d spellista?</item>
+        <item quantity="other">Delete %d playlists?</item>
+        <item quantity="one">Delete %d playlist?</item>
     </plurals>
     <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d nya</item>
-        <item quantity="one">1 ny</item>
+        <item quantity="other">%d new</item>
+        <item quantity="one">%d new</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d låtar</item>
@@ -52,29 +56,29 @@
         <item quantity="other">Radera %d låtar?</item>
         <item quantity="one">Radera %d låt?</item>
     </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Delete %d songs from Mi Cloud? They will be deleted from local playlists as well.</item>
+        <item quantity="one">Delete %d song from Mi Cloud? It will be deleted from local playlists as well.</item>
+    </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d låtar tillagda i spellistan</item>
-        <item quantity="one">Låt tillagd i spellistan</item>
+        <item quantity="other">%d songs added to playlist</item>
+        <item quantity="one">%d song added to playlist</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d låtar borttagna från spellistan</item>
-        <item quantity="one">Låt borttagen från spellistan</item>
+        <item quantity="other">%d songs removed from playlist</item>
+        <item quantity="one">%d song removed from playlist</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Spelaren kommer stoppas om %d minuter</item>
         <item quantity="one">Spelaren kommer stoppas om %d minut</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d låtar kommer skickas</item>
-        <item quantity="one">1 låt kommer skickas</item>
+        <item quantity="other">%d songs will be sent</item>
+        <item quantity="one">%d song will be sent</item>
     </plurals>
     <plurals name="folder_songs_count">
-        <item quantity="other">%d låtar</item>
-        <item quantity="one">1 låt</item>
-    </plurals>
-    <plurals name="Nnew_local_audios">
-        <item quantity="other">%d låtar tillagda</item>
-        <item quantity="one">%d låt tillagd</item>
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d song</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d objekt valda</item>
@@ -91,5 +95,33 @@
     <plurals name="reader_count">
         <item quantity="other">%d följare</item>
         <item quantity="one">%d följare</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">%1$d låtar har inte säkerhetskopierats (%2$.1fMB)\"</item>
+        <item quantity="one">%1$d låt har inte säkerhetskopierats (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Säkerhetskopiera %1$d låtar (%2$.1fMB)</item>
+        <item quantity="one">Säkerhetskopiera %1$d låt (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Backing up songs, %1$d songs remaining (%2$.1fMB)</item>
+        <item quantity="one">Backing up songs, %1$d song remaining (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d songs haven't been backed up to Mi Cloud. Stop now?"</item>
+        <item quantity="one">"%d song hasn't been backed up to Mi Cloud. Stop now?"</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Skapad den %1$s | totalt %2$d låtar</item>
+        <item quantity="one">Skapad den %1$s | totalt %2$d låtar</item>
+    </plurals>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">Total %d songs</item>
+        <item quantity="one">Total %d song</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
+        <item quantity="one">Skipped %d song. Turn on online services in the settings to listen to it.</item>
     </plurals>
 </resources>

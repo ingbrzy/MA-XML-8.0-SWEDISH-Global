@@ -28,20 +28,6 @@
         <item>I dag Wi-Fi</item>
         <item>Denna månad Wi-Fi</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>I går (data)</item>
-        <item>I dag (data)</item>
-        <item>Denna månad (data)</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3 sek</item>
-        <item>4 sek</item>
-        <item>5 sek</item>
-        <item>6 sek</item>
-        <item>7 sek</item>
-        <item>8 sek</item>
-        <item>9 sek</item>
-    </string-array>
     <string-array name="traffic_type">
         <item>"Mobilanvändning "</item>
         <item>"Wi-Fi-användning "</item>
@@ -50,21 +36,9 @@
         <item>"Mobilanvändning "</item>
         <item>"Wi-Fi-användning "</item>
     </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"Mobil dataanvändning "</item>
-        <item>"Wi-Fi-användning "</item>
-    </string-array>
-    <string-array name="traffic_setting_sms_template">
-        <item>Få automatiskt</item>
-        <item>Ange manuellt</item>
-    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Visa varning</item>
         <item>Varna och stäng av mobildata</item>
-    </string-array>
-    <string-array name="roaming_apps_sorted_type">
-        <item>Mest använda</item>
-        <item>Namn</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Alltid</item>
@@ -76,15 +50,30 @@
         <item>När enheten är låst eller efter en app avslutas</item>
         <item>När enheten är låst eller efter 1 minut som en app avslutas</item>
     </string-array>
-    <string-array name="long_add_menu">
-        <item>Add to exceptions</item>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
     </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Efter 1 minut</item>
-        <item>Efter 5 minuter</item>
-        <item>Efter 10 minuter</item>
-        <item>Efter 30 minuter</item>
-        <item>Aldrig</item>
+    <string-array name="sort_type">
+        <item>Status</item>
+        <item>App name</item>
+        <item>Usage frequency</item>
+        <item>Used storage</item>
+        <item>Data usage</item>
+        <item>Battery usage</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Sort by status</item>
+        <item>Sort by app name</item>
+        <item>Sort by usage frequency</item>
+        <item>Sort by used storage</item>
+        <item>Sort by data usage</item>
+        <item>Sort by battery usage</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Data Usage</item>
+        <item>Phone balance</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>En gång</item>

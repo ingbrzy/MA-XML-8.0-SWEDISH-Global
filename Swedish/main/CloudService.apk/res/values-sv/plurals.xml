@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d är av</item>
+        <item quantity="one">%d är av</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Objekt som väntar på synk: %d</item>
+        <item quantity="one">Objekt som väntar på synk: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d objekt väntar på att synkronisera</item>
+        <item quantity="one">%d objekt väntar på att synkronisera</item>
+    </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d kontakter</item>
         <item quantity="one">%d kontakt</item>
@@ -17,31 +29,31 @@
         <item quantity="one">%d foto</item>
     </plurals>
     <plurals name="dirty_callog_count">
-        <item quantity="other">%d call history records</item>
-        <item quantity="one">%d call history record</item>
+        <item quantity="other">%d samtalkshistorikposter</item>
+        <item quantity="one">%d samtalkshistorikpost</item>
     </plurals>
     <plurals name="dirty_wlan_count">
-        <item quantity="other">%d Wi-Fi networks</item>
-        <item quantity="one">%d Wi-Fi network</item>
+        <item quantity="other">%d Wi-Fi Nätverk</item>
+        <item quantity="one">%d Wi-Fi Nätverk</item>
     </plurals>
     <plurals name="dirty_recorder_count">
-        <item quantity="other">%d records</item>
-        <item quantity="one">%d record</item>
+        <item quantity="other">%d inspelningar</item>
+        <item quantity="one">%d inspelning</item>
     </plurals>
     <plurals name="dirty_music_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d låtar</item>
+        <item quantity="one">%d låt</item>
     </plurals>
     <plurals name="dirty_browser_count">
-        <item quantity="other">%d browser items</item>
-        <item quantity="one">%d browser item</item>
+        <item quantity="other">%d webbläsarobjekt</item>
+        <item quantity="one">%d webbläsarobjekt</item>
     </plurals>
     <plurals name="dirty_calendar_count">
-        <item quantity="other">%d calendar items</item>
-        <item quantity="one">%d calendar item</item>
+        <item quantity="other">%d kalenderobjekt</item>
+        <item quantity="one">%d kalenderobjekt</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d blocklist entries</item>
-        <item quantity="one">%d blocklist entry</item>
+        <item quantity="other">%d blockeringslistaposter</item>
+        <item quantity="one">%d blockeringslistapost</item>
     </plurals>
 </resources>

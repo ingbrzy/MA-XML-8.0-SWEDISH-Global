@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="face_count">
+        <item quantity="other">Totalt %d foton</item>
+        <item quantity="one">Totalt %d foto</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Totalt %d bilder</item>
+        <item quantity="one">Totalt %d bild</item>
+    </plurals>
     <plurals name="age_year">
         <item quantity="other">%d år</item>
         <item quantity="one">%d år</item>
@@ -53,8 +61,8 @@
         <item quantity="one">Kunde inte ladda ner foto (%2$dMB), försök igen?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), connect to the network and try again"</item>
-        <item quantity="one">"Couldn't download photo (%2$dMB), connect to the network and try again"</item>
+        <item quantity="other">Det gick inte att hämta %1$d bilder (%2$dMB), anslut till nätverket och försök igen</item>
+        <item quantity="one">Det gick inte att hämta bild(%2$dMB), anslut till nätverket och försök igen</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Avbryt nedladdningen av %d kvarvarande foton?</item>
@@ -88,33 +96,45 @@
         <item quantity="other">%1$d objekt | %2$s</item>
         <item quantity="one">%1$d objekt | %2$s</item>
     </plurals>
-    <plurals name="backuped">
-        <item quantity="other">%1$d objekt har blivit säkerhetskopierade</item>
-        <item quantity="one">%1$d objekt har blivit säkerhetskopierade</item>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d foton och videor</item>
+        <item quantity="one">%1$d foto eller video</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d objekt väntar på säkerhetskopiering</item>
-        <item quantity="one">%1$d objekt väntar på säkerhetskopiering</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d foto eller video| %2$s</item>
+        <item quantity="one">%1$d foto eller video| %2$s</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-        <item quantity="other">Nätverksfel. %1$d objekt väntar på att säkerhetskopieras</item>
-        <item quantity="one">Nätverksfel. %1$d objekt väntar på att säkerhetskopieras</item>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Resume backup in %d hours</item>
+        <item quantity="one">Återupptar säkershetskopiering om %d timmar</item>
     </plurals>
-    <plurals name="sync_off">
-        <item quantity="other">Synkronisering avstängd. %1$d objekt väntar på att säkerhetskopieras</item>
-        <item quantity="one">Synkronisering avstängd. %1$d objekt väntar på att säkerhetskopieras</item>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d photos and videos | Paused</item>
+        <item quantity="one">%d photo or video | Paused</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud är fullt. %1$d objekt väntar på att säkerhetskopieras</item>
-        <item quantity="one">Mi Cloud är fullt. %1$d objekt väntar på att säkerhetskopieras</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">Har inte säkerhetskopierat %d foto eller video</item>
+        <item quantity="one">Har inte säkerhetskopierat %d foto eller video</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">Inte tillräckligt lokal lagring. %1$d objekt väntar på att säkerhetskopieras</item>
-        <item quantity="one">Inte tillräckligt lokal lagring. %1$d objekt väntar på att säkerhetskopieras</item>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d objekt</item>
+        <item quantity="one">%d objekt</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d foton</item>
+        <item quantity="one">%d foton</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="add_to_secret_successful">
+        <item quantity="other">Added %1$d photos to hidden album</item>
+        <item quantity="one">Added 1 photo to hidden album</item>
     </plurals>
     <plurals name="number_of_images_synced">
-        <item quantity="other">%1$d photos</item>
-        <item quantity="one">1 photo</item>
+        <item quantity="other">%1$d bilder</item>
+        <item quantity="one">1 bild</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d videos</item>
@@ -148,6 +168,10 @@
         <item quantity="other">Kunde inte ladda ner %1$d filer</item>
         <item quantity="one">Kunde inte ladda ner %1$d fil</item>
     </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">"Couldn't download %1$d files, check network connection and try again"</item>
+        <item quantity="one">Kunde inte ladda ner %1$d filer, kolla nätverket och försök igen</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d objekt valda</item>
         <item quantity="one">%d objekt vald</item>
@@ -156,12 +180,12 @@
         <item quantity="other">Hoppade över %1$d foton som inte kunde renderas.</item>
         <item quantity="one">Hoppade över ett foto som inte kunde renderas.</item>
     </plurals>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Visa inte detta ansikte?</item>
-        <item quantity="one">Visa inte detta ansikte?</item>
+    <plurals name="file_count_format">
+        <item quantity="other">Totalt %1$d objekt</item>
+        <item quantity="one">Totalt %1$d objekt</item>
     </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%1$s foton på %2$s >></item>
-        <item quantity="one">%1$s foto på %2$s >></item>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Fann %1$d nya foton</item>
+        <item quantity="one">Fann ett nytt foto</item>
     </plurals>
 </resources>

@@ -24,9 +24,9 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Visa</item>
-        <item>Visa inte</item>
-        <item>Visa efter</item>
+        <item>Endast uppmärksamma</item>
+        <item>Rensa automatiskt</item>
+        <item>Rensa och meddela</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Städa upp den här filen</item>
@@ -65,5 +65,15 @@
     <string-array name="scan_engine">
         <item>Clean Master</item>
         <item>Tencent</item>
+    </string-array>
+    <string-array name="wechat_menu_delete">
+        <item>Rensa</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist">
+        <item>Rensa</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist_view">
+        <item>Rensa</item>
+        <item>Visa</item>
     </string-array>
 </resources>

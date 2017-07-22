@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="confirm_delete_conversation">
-        <item quantity="other">Radera markerade %1$s konversationer?</item>
-        <item quantity="one">Radera den här konversationen?</item>
-    </plurals>
-</resources>

@@ -59,8 +59,8 @@
         <item>Nyligen</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Blockera djup sömnläge</item>
-        <item>Blockera sömnläge</item>
+        <item>Blocking deep sleep mode</item>
+        <item>Blocking sleep mode</item>
         <item>Söker efter Wi-Fi</item>
         <item>Använder GPS</item>
         <item>Ockuperar CPU</item>
@@ -73,5 +73,18 @@
         <item>GPS</item>
         <item>CPU</item>
         <item>Vakna</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Default warm control mode</item>
+        <item>Performance first mode</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>The current temperature control mode, the temperature of experience is preferred</item>
+        <item>The current performance model, performance experience is preferred, temperatures could rise</item>
     </string-array>
 </resources>

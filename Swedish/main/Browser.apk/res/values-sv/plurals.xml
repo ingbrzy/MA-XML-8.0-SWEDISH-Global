@@ -9,8 +9,8 @@
         <item quantity="one">%d passar</item>
     </plurals>
     <plurals name="last_num_days">
-        <item quantity="other">Senaste %d dagar</item>
-        <item quantity="one">Senaste %d dag</item>
+        <item quantity="other">Last %d days</item>
+        <item quantity="one">Last %d day</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d av %2$d</item>
@@ -37,11 +37,7 @@
         <item quantity="one">Radera %1$d objekt från historiken?</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
-        <item quantity="other">"%d1 minuter kvar
-
-Plural form"</item>
-        <item quantity="one">"1 minut kvar
-
-Plural form"</item>
+        <item quantity="other">%d minuter återstår</item>
+        <item quantity="one">%d minut återstår</item>
     </plurals>
 </resources>

@@ -2,7 +2,7 @@
 <resources>
     <string-array name="switch_apps_entries">
         <item>Används i första utrymmet</item>
-        <item>Används i Sekundära utrymmet</item>
+        <item>Used in the current space</item>
         <item>Används i båda utrymmena</item>
     </string-array>
     <string-array name="switch_apps_title_confirms">
@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="switch_apps_msg_confirms">
         <item>App data kommer försvinna efter att apparna flyttas till det Primära utrymmet.</item>
-        <item>App data kommer försvinna efter att apparna flyttas till det Sekundära utrymmet.</item>
+        <item>App data will be lost after apps are moved to the current space.</item>
         <item>Appar används i båda utrymmena.</item>
     </string-array>
 </resources>

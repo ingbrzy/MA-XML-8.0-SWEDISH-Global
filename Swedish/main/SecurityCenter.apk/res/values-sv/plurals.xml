@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d calls</item>
+        <item quantity="one">%d call</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d messages</item>
+        <item quantity="one">%d message</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d other users marked it as</item>
+        <item quantity="one">%d other user marked it as</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d keywords</item>
+        <item quantity="one">%d keyword</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d numbers</item>
+        <item quantity="one">%d number</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Spårar inte dataanvändning för %d appar</item>
         <item quantity="one">Spårar inte dataanvändning för %d app</item>
@@ -8,9 +28,21 @@
         <item quantity="other">Spårar dataanvändning för %d appar</item>
         <item quantity="one">Spårar dataanvändning för %d app</item>
     </plurals>
-    <plurals name="hints_install_apps_interval">
-        <item quantity="other">Använd för %d dagar sedan</item>
-        <item quantity="one">Använd igår</item>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">"You've already used %s daily data limits."</item>
+        <item quantity="one">"You've already used %s daily data limit."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"You've already used %s daily data limits.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
+        <item quantity="one">"You've already used %s daily data limit.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Sök %d appar</item>
@@ -41,8 +73,8 @@
         <item quantity="one">"%d min "</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
-        <item quantity="other">Om %1$d minuter</item>
-        <item quantity="one">Om %1$d min</item>
+        <item quantity="other">In %1$d minutes</item>
+        <item quantity="one">In %1$d minute</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
         <item quantity="other">Löste %d batteri problem</item>
@@ -56,25 +88,45 @@
         <item quantity="other">%d batteri problem</item>
         <item quantity="one">%d batteri problem</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d objekt kan optimeras</item>
-        <item quantity="one">%d objekt kan optimeras</item>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Hittade%d batterifrågor, fixa dem</item>
+        <item quantity="one">Hittade%d batteri problem, fixa det</item>
     </plurals>
     <plurals name="people">
-        <item quantity="other">Downloaded by %1$d people</item>
-        <item quantity="one">Downloaded by %1$d people</item>
+        <item quantity="other">Nerladdad av %1$d människor</item>
+        <item quantity="one">Nerladdad av %1$d människa</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Downloaded by %1$d people</item>
-        <item quantity="one">Downloaded by %1$d people</item>
-    </plurals>
-    <plurals name="million">
-        <item quantity="other">Downloaded by %1$d people</item>
-        <item quantity="one">Downloaded by %1$d people</item>
+        <item quantity="other">Nerladdad av %1$d människor</item>
+        <item quantity="one">Nerladdad av %1$d människa</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d views</item>
-        <item quantity="one">%1$d views</item>
+        <item quantity="one">%1$d view</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Found %d viruses and insecure apps</item>
+        <item quantity="one">Found %d virus app</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Found %d unofficial apps</item>
+        <item quantity="one">Found %d unofficial app</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s payment apps are protected</item>
+        <item quantity="one">%s payment app is protected</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s apps are protected</item>
+        <item quantity="one">%s app is protected</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">"%s apps aren't protected"</item>
+        <item quantity="one">"%s app isn't protected"</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d objekt säkrade</item>
@@ -108,53 +160,41 @@
         <item quantity="other">%d appar har inte rootåtkomst</item>
         <item quantity="one">%d app har inte rootåtkomst</item>
     </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d exceptions</item>
+        <item quantity="one">%d exception</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">"Haven't synced carrier's data usage stats in %d days"</item>
+        <item quantity="one">"Haven't synced carrier's data usage stats in %d day"</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Uppdateringar tillängliga för %d appar.</item>
         <item quantity="one">Uppdatering tillänglig för %d app.</item>
     </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d days since last check-up</item>
+        <item quantity="one">%d day since last check-up</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d risks,</item>
+        <item quantity="other">%d risker,</item>
         <item quantity="one">%d risk,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans,</item>
+        <item quantity="other">%d trojaner,</item>
         <item quantity="one">%d trojan,</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d risks</item>
-        <item quantity="one">%d risk</item>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Dangerous apps: %d</item>
+        <item quantity="one">Dangerous app: %d</item>
     </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d​ risks found, fix now</item>
-        <item quantity="one">%d risk found, fix now</item>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojans: %d</item>
+        <item quantity="one">Trojan: %d</item>
     </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d appar innehåller intigritetsrisker</item>
-        <item quantity="one">%d app innehåller intigritetsrisk</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Lösenord måste innehålla åtminstone %d bokstäver.</item>
-        <item quantity="one">"Lösenord måste innehålla åtminstone 1 bokstav. "</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Lösenordet ska innehålla minst %d små bokstäver.</item>
-        <item quantity="one">Lösenordet ska innehålla minst 1 liten bokstav.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Lösenordet ska innehålla minst %d stora bokstäver.</item>
-        <item quantity="one">Lösenordet ska innehålla minst 1 stor bokstav.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Lösenordet ska innehålla minst %d siffror.</item>
-        <item quantity="one">Lösenordet ska innehålla minst 1 siffra.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Lösenordet ska innehålla minst %d specialtecken.</item>
-        <item quantity="one">Lösenordet ska innehålla minst 1 specialtecken.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Lösenordet ska innehålla minst %d tecken som inte är en bokstav.</item>
-        <item quantity="one">Lösenordet ska innehålla minst 1 tecken som inte är en bokstav.</item>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Wait for %d seconds and try again. "</item>
+        <item quantity="one">"Wait for %d second and try again. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d appar låsta</item>
@@ -172,29 +212,9 @@
         <item quantity="other">%d appar funna</item>
         <item quantity="one">%d app funnen</item>
     </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">1 item</item>
-    </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s betalningsrisker</item>
-        <item quantity="one">%s betalningsrisk</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s betalningsappar skyddas</item>
-        <item quantity="one">%s betalningsapp skyddas</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s appar skyddas</item>
-        <item quantity="one">%s app skyddas</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s appar skyddas inte</item>
-        <item quantity="one">%s app skyddas inte</item>
-    </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d låsta appar väntar på att rensas</item>
-        <item quantity="one">%d låst app väntar på att rensas</item>
+        <item quantity="one">%d låsta appar väntar på att rensas</item>
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">Raderade %d virus</item>
@@ -203,5 +223,45 @@
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">Added %d games</item>
+        <item quantity="one">Added %d game</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Allowed %d permissions</item>
+        <item quantity="one">Allowed %d permission</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Ask for %d permissions</item>
+        <item quantity="one">Ask for %d permission</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d times</item>
+        <item quantity="one">%d time</item>
+    </plurals>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">Blocked %d times</item>
+        <item quantity="one">Blocked %d time</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Used %d days ago</item>
+        <item quantity="one">Used %d day ago</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Used %d months ago</item>
+        <item quantity="one">Used %d month ago</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Used %d years ago</item>
+        <item quantity="one">Used %d year ago</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Added %d games</item>
+        <item quantity="one">Added %d game</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">"Haven't added %d games"</item>
+        <item quantity="one">"Haven't added %d game"</item>
     </plurals>
 </resources>

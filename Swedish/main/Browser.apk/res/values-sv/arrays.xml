@@ -8,6 +8,11 @@
         <item>Grön</item>
         <item>Blå</item>
     </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Sida tillbaka framåt</item>
+        <item>Byt flikar</item>
+        <item>Ingen</item>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Standard Hemsida</item>
         <item>Anpassad</item>
