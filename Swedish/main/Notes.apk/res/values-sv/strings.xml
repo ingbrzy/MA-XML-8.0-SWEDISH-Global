@@ -129,7 +129,6 @@
   <string name="search_label">Söker…</string>
   <string name="search_path_notes">Systemappar/Anteckningar</string>
   <string name="search_setting_description">Sök text i dina anteckningar</string>
-  <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">Synkronisera anteckningar</string>
   <string name="set_alarm_description">Set alarm</string>
   <string name="sina_share_fail">"Couldn't send"</string>

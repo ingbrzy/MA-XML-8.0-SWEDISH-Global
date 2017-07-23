@@ -367,7 +367,6 @@ Kontrollera ditt spårningsnummer."</string>
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="recharge_actual_price">Pris:</string>
   <string name="recharge_charge_range">Pris: RMB %1$s-%2$s</string>
-  <string name="recharge_charge_value">Pris: RMB %s</string>
   <string name="recharge_follow_name">Fyll upp</string>
   <string name="recharge_history">Påfyllningshistorik</string>
   <string name="recharge_history_empty">Tom</string>

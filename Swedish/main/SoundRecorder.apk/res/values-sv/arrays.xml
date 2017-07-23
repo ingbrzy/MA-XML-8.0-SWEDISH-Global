@@ -19,12 +19,6 @@
         <item>Intervju</item>
         <item>HD</item>
     </string-array>
-    <string-array name="record_scenes_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
     <string-array name="record_scenes_summaries">
         <item>Spela in musik med bättre kvalitet</item>
         <item>Flytta mikrofonen närmare ljudkällan för bättre kvalitet</item>
@@ -41,11 +35,6 @@
         <item>Hög</item>
         <item>Standard</item>
         <item>Låg</item>
-    </string-array>
-    <string-array name="record_quality_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="record_quality_summaries">
         <item>MP3, ~192kbit/s, ~90MB/h</item>

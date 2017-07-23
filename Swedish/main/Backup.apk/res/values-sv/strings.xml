@@ -85,7 +85,6 @@
   <string name="delete_backup_title">Ta bort säkerhetskopiering</string>
   <string name="delete_failed_backup_confirm">Denna säkerhetskopiering innehåller fel.</string>
   <string name="deselect_all">Avmarkera alla</string>
-  <string name="digit_percent">%</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_title">Stäng av kryptering</string>
   <string name="enable_encrypt">Aktivera kryptering</string>

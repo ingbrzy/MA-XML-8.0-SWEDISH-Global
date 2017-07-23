@@ -106,7 +106,6 @@ with more clear main body and more beautiful portrait"</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Ramgenomsnitt</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Fokuspunkt</string>
   <string name="pref_camera_autoexposure_title">Inställningar för autoexponering</string>
-  <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
   <string name="pref_camera_beautify_entry_high">Hög</string>
   <string name="pref_camera_beautify_entry_low">Låg</string>
   <string name="pref_camera_beautify_entry_normal">Medium</string>
@@ -231,7 +230,6 @@ with more clear main body and more beautiful portrait"</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Fullskärm 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
-  <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
   <string name="pref_camera_picturesize_title_simple_mode">Kameraram</string>
   <string name="pref_camera_portrait_mode_entry_off">Porträttläge av</string>
   <string name="pref_camera_portrait_mode_entry_on">Porträttläge på</string>

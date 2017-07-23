@@ -551,7 +551,6 @@ Ta fler bilder av dina vänner!"</string>
   <string name="people_jump_failed">Vänta tills bilder med människor synkroniseras med Mi Cloud och försök igen</string>
   <string name="people_page_label">Människor</string>
   <string name="people_page_unname">Namnlös</string>
-  <string name="percent_sign">%</string>
   <string name="pet_album_display_name">Sällskapsdjursfoton</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">Foton</string>
@@ -662,8 +661,6 @@ Ta fler bilder av dina vänner!"</string>
   <string name="search_title_people">Människor</string>
   <string name="search_title_recommend">Rekommenderad</string>
   <string name="search_title_tag">Objekt</string>
-  <string name="search_transition_element_icon">search_icon</string>
-  <string name="search_transition_element_input">search_input</string>
   <string name="secret_album_card_description">The best place for all your little secrets</string>
   <string name="secret_album_card_title">Try hidden album</string>
   <string name="secret_album_display_name">Dolt album</string>
@@ -848,7 +845,6 @@ Ta fler bilder av dina vänner!"</string>
   <string name="view_by_gallery_tip">MIUI Galleri</string>
   <string name="view_face_album">Visa album</string>
   <string name="view_queuing_status">Kolla status</string>
-  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Välkommen till Mi Cloud</string>
   <string name="welcome_to_slim">Optimera lokalt utrymme</string>
   <string name="where_is_barcode">Var är QR-koden?</string>

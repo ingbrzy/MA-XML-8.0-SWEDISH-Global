@@ -434,7 +434,6 @@ in case you forget it"</string>
   <string name="card_main_private_space_summary">Att använda det Sekundära utrymmet är som att ha två enheter</string>
   <string name="card_main_private_space_title">Sekundärt utrymme</string>
   <string name="card_main_sectool_title">Verktyg</string>
-  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_speeddetail_title">Anslutningshastighet</string>
   <string name="card_main_speeddetailt_summary">Visa anslutningshastighet för valda appar</string>
   <string name="card_main_xspace_action">Skapa</string>

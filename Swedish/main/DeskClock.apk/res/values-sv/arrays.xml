@@ -37,16 +37,6 @@
         <item>Mycket dålig</item>
         <item>Svår</item>
     </string-array>
-    <string-array name="weather_tips_value">
-        <item>Begränsa utomhusaktiviteter</item>
-        <item>Vägarna är hala</item>
-        <item>Det är stormigt väder, var försiktig!</item>
-        <item>Luften är förorenad, ta på dig en mask!</item>
-        <item>Ta med dig ett paraply när du går ut</item>
-        <item>Var försiktig på vägen</item>
-        <item>En sandstorm är på väg, ta på dig en mask!</item>
-        <item>Ha en bra dag!</item>
-    </string-array>
     <string-array name="alarm_set">
         <item>Alarmet kommer stängas av inom 1 minut.</item>
         <item>Alarmet kommer stängas av inom %1$s.</item>
@@ -66,15 +56,6 @@
         <item>25 minuter</item>
         <item>30 minuter</item>
     </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="auto_silence_entries">
         <item>Aldrig</item>
         <item>1 minut</item>
@@ -89,10 +70,5 @@
         <item>Gör inget</item>
         <item>Snooze</item>
         <item>Avfärda</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

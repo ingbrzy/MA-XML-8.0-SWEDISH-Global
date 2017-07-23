@@ -167,7 +167,6 @@
   <string name="color_picker_dialog_title">Välj färg</string>
   <string name="color_picker_hue">Nyans</string>
   <string name="color_picker_saturation">Mättnad</string>
-  <string name="color_picker_value">Värde</string>
   <string name="comment_app_menu">Kommentar</string>
   <string name="comment_description">Kommentar</string>
   <string name="comment_hint">Kommentar</string>
